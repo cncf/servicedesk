@@ -16,6 +16,8 @@ CNCF’s services fall in the following general categories:
 
 On top of these services, it is our opinion that the biggest value of CNCF, by far, is that a neutral home for your project increases the willingness of developers from other companies and independent developers to collaborate, contribute, and become committers. Neutrality requires that projects contribute their trademark to CNCF so that no company is favored over any other and CNCF ensures project governance is transparent and fair for everyone.
 
+See this [presentation](https://docs.google.com/presentation/d/1WsZp5XzUXgW2xdk3OXxo8BbjMr1hDM7oy4RZyRhtEm8/edit?usp=sharing) for more detais.
+
 ## Service Desk Process
 
 If you’re a CNCF project committer, all you have to do is visit http://servicedesk.cncf.io or email support@cncfservicedesk.atlassian.net to request support.
