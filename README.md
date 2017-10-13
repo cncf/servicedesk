@@ -20,7 +20,7 @@ See this [presentation](https://docs.google.com/presentation/d/1WsZp5XzUXgW2xdk3
 
 ## Service Desk Process
 
-If you’re a CNCF project committer, all you have to do is visit http://servicedesk.cncf.io or email support@cncfservicedesk.atlassian.net to request support.
+If you’re a CNCF project committer, all you have to do is visit http://servicedesk.cncf.io or email servicedesk@cncf.io to request support.
 
 ## Event Services
 
