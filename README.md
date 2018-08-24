@@ -40,7 +40,7 @@ Events are a part of CNCF’s core strategy and they help your project build a c
 
 * We can assist our project in running their own events. Those can be attached to a CNCF or third-party event or standalone
 
-    * For Prometheus, we have helped arrange the logistics of [PromCon](https://promcon.io/2018-munich/), while leaving all content decisions to the maintainers
+    * For Prometheus, we have helped arrange the logistics of [PromCon](https://promcon.io), while leaving all content decisions to the maintainers
 
         * Specifically, we helped arrange the 5 diamond sponsors (CNCF is one) and are holding the funds. The allocation of all funds (including any unspent amounts) remains up to the maintainers.
 
