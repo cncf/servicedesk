@@ -26,13 +26,7 @@ If you’re a CNCF project committer, all you have to do is visit http://service
 
 Events are a part of CNCF’s core strategy and they help your project build a community with face-to-face interaction and knowledge sharing.
 
-* CNCF manages three large events every year, and ensures tracks for each CNCF project.
-
-    * [KubeCon + CloudNativeCon North America](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2018/)
-
-    * [KubeCon + CloudNativeCon Europe](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2018/)
-
-    * [KubeCon + CloudNativeCon China](https://www.lfasiallc.com/events/kubecon-cloudnativecon-china-2018/)
+* CNCF manages three [KubeCon + CloudNativeCon events](https://www.cncf.io/community/kubecon-cloudnativecon-events/) every year, and ensures tracks for each CNCF project.
 
     * Prior to those meetings, we have organized SIG gatherings, hack-fests and other related activities.
 
