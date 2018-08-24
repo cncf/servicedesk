@@ -26,11 +26,13 @@ If you’re a CNCF project committer, all you have to do is visit http://service
 
 Events are a part of CNCF’s core strategy and they help your project build a community with face-to-face interaction and knowledge sharing.
 
-* CNCF manages two large events every year, and ensures tracks for each CNCF project.
+* CNCF manages three large events every year, and ensures tracks for each CNCF project.
 
-    * [CloudNativeCon + KubeCon North America 2017](http://events.linuxfoundation.org/events/cloudnativecon-and-kubecon-north-america)
+    * [KubeCon + CloudNativeCon North America](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2018/)
 
-    * [CloudNativeCon + KubeCon Europe 2017](http://events.linuxfoundation.org/events/archive/2017/cloudnativecon-and-kubecon-europe)
+    * [KubeCon + CloudNativeCon Europe](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2018/)
+
+    * [KubeCon + CloudNativeCon China](https://www.lfasiallc.com/events/kubecon-cloudnativecon-china-2018/)
 
     * Prior to those meetings, we have organized SIG gatherings, hack-fests and other related activities.
 
@@ -44,7 +46,7 @@ Events are a part of CNCF’s core strategy and they help your project build a c
 
 * We can assist our project in running their own events. Those can be attached to a CNCF or third-party event or standalone
 
-    * For Prometheus, we have helped arrange the logistics of [PromCon](https://promcon.io/2017-munich/), while leaving all content decisions to the maintainers
+    * For Prometheus, we have helped arrange the logistics of [PromCon](https://promcon.io/2018-munich/), while leaving all content decisions to the maintainers
 
         * Specifically, we helped arrange the 5 diamond sponsors (CNCF is one) and are holding the funds. The allocation of all funds (including any unspent amounts) remains up to the maintainers.
 
