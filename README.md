@@ -76,9 +76,9 @@ CNCF provides a full portfolio of marketing services to support community and ec
 
 CNCF has made a major investment to implement training, expert certification and provider certification programs for Kubernetes. Over time, we expect to expand these to cover other projects as well
 
-* Free Introduction to Kubernetes course on edX MOOC (~44000 enrollments)
-* Certified Kubernetes Administrator (CKA) exam (over 4700 registrants)
-* CKA Developer course (CKAD): Kubernetes for Developers
+* Free Introduction to Kubernetes course on edX MOOC (~44000 enrollments): https://www.edx.org/course/introduction-to-kubernetes
+* Certified Kubernetes Administrator (CKA) exam (over 4700 registrants): https://www.cncf.io/certification/cka
+* CKA Developer course (CKAD): Kubernetes for Developers: https://www.cncf.io/certification/ckad
 * CNCF is working with The Linux Foundation training team to develop self-paced online courses that can scale up a project’s reach beyond what’s possible using instructor-led courses
 
 ## Legal Services
