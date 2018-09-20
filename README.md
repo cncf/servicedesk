@@ -33,6 +33,7 @@ CNCF’s services fall in the following general categories:
 * Leverage the expertise of its parent organization, The Linux Foundation, which hosts other successful projects including Hyperledger, ONAP, the Linux kernel, Let’s Encrypt, and Node.js. For example, CNCF arranged a collaboration between Kubernetes developers and Linux Foundation fellow and stable kernel maintainer Greg Kroah-Hartman to [discuss](https://www.linux.com/news/greg-kroah-hartman-gives-inside-look-largest-fastest-software-project-all) high-velocity software development techniques
 * Access to full-time CNCF staff who are eager to assist your project in myriad ways and help make it successful
 * Participate in the CNCF cross-project, cross-cloud continuous integration [program](https://github.com/cncf/cross-cloud/)
+* Security audits by independent third parties (e.g., https://coredns.io/2018/03/15/cure53-security-assessment/)
 
 ## Event Management
 
