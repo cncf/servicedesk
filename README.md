@@ -26,6 +26,11 @@ CNCF’s services fall in the following general categories:
 * Maintain your committers, just commit to an unbiased process to elect additional committers
 * Tools such as LastPass and PagerDuty to use for your project community
 
+## Communication Tools
+
+* Zoom video conferencing Pro accounts for video meetings, recordings, and scheduling
+* OpsGenie account for on-call rotations for production services, security disclosure lists, or other needs
+
 ## Program Management
 
 * Collaborate with our full-time press and analyst relations teams to increase awareness and excitement of the projects
