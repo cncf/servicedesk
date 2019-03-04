@@ -24,12 +24,17 @@ CNCF’s services fall in the following general categories:
 * Existing committers still control your project, and we just ask that you document a neutral governance process
 * Tens of thousands of dollars per year to improve project documentation
 * Maintain your committers, just commit to an unbiased process to elect additional committers
-* Tools such as LastPass and PagerDuty to use for your project community
 
-## Communication Tools
+## Tools
+
+Projects have the free to use their own tools in CNCF but there are certain tools we recommend and have relationships with:
 
 * Zoom video conferencing Pro accounts for video meetings, recordings, and scheduling
 * OpsGenie account for on-call rotations for production services, security disclosure lists, or other needs
+* LastPass to manage to shared secrets
+* Netlify for improved workflow/automation around documentation and websites
+* Discourse for community discussion (e.g., https://discuss.kubernetes.io)
+* [FOSSA](https://fossa.io) for license and security scanning
 
 ## Program Management
 
