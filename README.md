@@ -110,6 +110,34 @@ We offer internationalization support for projects that require blog posts trans
 
 We have a professional staff located in China that can help your project present at local meetups and events. Also, we host one of the largest open source conferences, [KubeCon+CloudNativeCon China](https://www.lfasiallc.com/events/kubecon-cloudnativecon-china-2018/) every year and offer simultaneous live translations of presentations in both Chinese and English.
 
-## Service Desk Process
+## FAQ 
 
-If you’re a CNCF project committer, all you have to do is visit [http://servicedesk.cncf.io](http://servicedesk.cncf.io/) or email [servicedesk@cncf.io](mailto:servicedesk@cncf.io) to request support.
+### How do I file a ticket with the Service Desk?
+
+If you’re a CNCF project committer/maintainer, all you have to do is visit [http://servicedesk.cncf.io](http://servicedesk.cncf.io/) or email [servicedesk@cncf.io](mailto:servicedesk@cncf.io) to request support.
+
+All CNCF maintainers are listed here: https://docs.google.com/spreadsheets/d/1Pr8cyp8RLrNGx9WBAgQvBzUUmqyOv69R7QAFKhacJEM/edit#gid=262035321
+
+### What happens if I want to use a tool or service not listed here?
+
+Projects are welcome to use their own tools in CNCF, we are a strong supporter of choice and flexibility. If you're interested in using a new tool and want CNCF to officially support it, please file a ticket and we will see what we can do to help!
+
+### Is there an SLA for service desk issues?
+
+Yes, you should receive a response within 48 hours.
+
+### How much budget is available for projects?
+
+CNCF doesn't set a set amount of budget for each project and will work with you best on your needs.
+
+### I'm not getting a response to my ticket?
+
+If you emailed servicedesk@cncf.io and didn't receive an immediate email with a ticket created, you may not have a service desk account. Head to http://servicedesk.cncf.io and try to login, if you can't find an account, email info@cncf.io and one will be created for you.
+
+### I changed my email and lost my servicedesk access, what can I do to get it back?
+
+Email info@cncf.io and one will be created for you.
+
+### I am not happy with the level of service from CNCF staff, what can I do to escalate?
+
+If you aren't happy with the service provided by CNCF staff or with a resolution of an issue, you have a couple of options. If it's a technical matter, you can appeal to the TOC https://github.com/cncf/toc and if it's a budget related matter you can appeal to the CNCF [Developer Representatives](https://www.cncf.io/people/governing-board/) on the GB.
