@@ -27,7 +27,7 @@ CNCF’s services fall in the following general categories:
 
 ## Tools
 
-Projects have the free to use their own tools in CNCF but there are certain tools we recommend and have relationships with:
+CNCF Projects may freely select their own tools but the CNCF staff recommends and has existing relationships with these tools:
 
 * Zoom video conferencing Pro accounts for video meetings, recordings, and scheduling
 * OpsGenie account for on-call rotations for production services, security disclosure lists, or other needs
