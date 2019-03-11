@@ -141,4 +141,4 @@ Email info@cncf.io and one will be created for you.
 
 ### I am not happy with the level of service from CNCF staff, what can I do to escalate?
 
-If you aren't happy with the service provided by CNCF staff or with a resolution of an issue, you have a couple of options. If it's a technical matter, you can appeal to the TOC https://github.com/cncf/toc and if it's a budget related matter you can appeal to the CNCF [Developer Representatives](https://www.cncf.io/people/governing-board/) on the GB.
+If you aren't happy with the service provided by CNCF staff or with a resolution of an issue, you have a couple of options. If it's a technical matter, you can appeal to the TOC https://github.com/cncf/toc and if it's a budget related matter you can appeal to the CNCF [Developer Representatives](https://github.com/cncfdevreps/issues) on the GB.
