@@ -2,7 +2,7 @@
 
 The Cloud Native Computing Foundation (CNCF) provides a variety of services and benefits to our projects to help make them more successful. The list below essentially represents each of the services that we have in the past provided to any project. We remain open to providing additional services, so if there are things you would like that are not listed, or if you have an issue but have not yet formulated your exact request, please still reach out to us.
 
-To improve access to CNCF services, we are implementing a service desk to serve as a single point access for all CNCF services. We’re modeling this on the 3-1-1 service that Mayor Bloomberg [rolled out](http://www1.nyc.gov/office-of-the-mayor/news/203-10/mayor-bloomberg-answers-100-millionth-call-311) in New York City to provide single point of access to all municipal services. Project maintainers that are used to interacting with CNCF staff members directly by email or Slack are welcome to continue to do so, and it will be that staff member’s responsibility to log the request in the CNCF ServiceDesk.
+To improve access to CNCF services, we are implementing a service desk to serve as a single point access for all CNCF services. We’re modeling this on the 3-1-1 service that Mayor Bloomberg [rolled out](https://www1.nyc.gov/office-of-the-mayor/news/203-10/mayor-bloomberg-answers-100-millionth-call-311) in New York City to provide single point of access to all municipal services. Project maintainers that are used to interacting with CNCF staff members directly by email or Slack are welcome to continue to do so, and it will be that staff member’s responsibility to log the request in the CNCF ServiceDesk.
 
 CNCF’s services fall in the following general categories:
 
@@ -19,7 +19,7 @@ CNCF’s services fall in the following general categories:
 
 * The CNCF provides a variety of services and benefits to our projects to help make them more successful. Neutrality requires that projects contribute their trademark to CNCF so that: no company is favored over any other and CNCF ensures project governance is transparent and fair for everyone.
 * A neutral home for your project increases the willingness of developers from other enterprise software companies, start-ups and independent developers to collaborate, contribute, and become committers
-* Endorsement by members of the CNCF’s [Technical Oversight Committee](http://github.com/cncf/toc) is an independent signal of the quality of your project
+* Endorsement by members of the CNCF’s [Technical Oversight Committee](https://github.com/cncf/toc) is an independent signal of the quality of your project
 * Engagement with the CNCF’s End User community of leading companies doing cutting-edge cloud native deployments
 * Existing committers still control your project, and we just ask that you document a neutral governance process
 * Tens of thousands of dollars per year to improve project documentation
@@ -49,12 +49,12 @@ CNCF Projects may freely select their own tools but the CNCF staff recommends an
 ## Event Management
 
 * Events are a part of CNCF’s core strategy and they help your project build a community with face-to-face interaction and knowledge sharing
-* Create a track for your project at our [KubeCon + CloudNativeCon](http://kubecon.io/) events with our world-class events team, bringing together vendors, developers and end users. We host events every year in Europe, China, and North America. In addition, we can help create a custom conference for you
+* Create a track for your project at our [KubeCon + CloudNativeCon](https://kubecon.io/) events with our world-class events team, bringing together vendors, developers and end users. We host events every year in Europe, China, and North America. In addition, we can help create a custom conference for you
 * Run events targeted specifically for your project (like [PromCon](https://promcon.io/) or [EnvoyCon](https://events.linuxfoundation.org/events/envoycon/)), and/or be a sponsor at those events
 * Travel funding available for your non-corporate-backed developers and to increase  attendance of women and other underrepresented minorities
-* Connect to our worldwide network of Cloud Native [meetup groups](http://www.meetup.com/pro/cncf/) and ambassadors to raise awareness of your project. We will also help sponsor meetup groups dedicated to your project so food and beverages can be provided
+* Connect to our worldwide network of Cloud Native [meetup groups](https://www.meetup.com/pro/cncf/) and ambassadors to raise awareness of your project. We will also help sponsor meetup groups dedicated to your project so food and beverages can be provided
 * Host a set of well-received networking events with leading VCs, which provides additional visibility for projects
-* CNCF assists with the events of its parent, the Linux Foundation, which are called Open Source Summits (OSS) and held every year in [North America](http://events.linuxfoundation.org/events/open-source-summit-north-america), [Europe](http://events.linuxfoundation.org/events/open-source-summit-europe), [Japan](https://events.linuxfoundation.org/events/open-source-summit-japan-2018/), and [China](https://www.lfasiallc.com/events/lc3-2018/), as well as the invitation-only Open Source Leadership Summit
+* CNCF assists with the events of its parent, the Linux Foundation, which are called Open Source Summits (OSS) and held every year in [North America](https://events.linuxfoundation.org/events/open-source-summit-north-america), [Europe](https://events.linuxfoundation.org/events/open-source-summit-europe), [Japan](https://events.linuxfoundation.org/events/open-source-summit-japan-2018/), and [China](https://www.lfasiallc.com/events/lc3-2018/), as well as the invitation-only Open Source Leadership Summit
 * CNCF assists with sponsorship leads, media introductions, co-location opportunities and marketing of the event
 * CNCF sponsors over 30 third-party cloud events each year including, OSCON, Google Next, AWS Reinvent, DockerCon, Microsoft Build and more
 * We [promote](https://twitter.com/CloudNativeFdn/status/862384302113251328) all CNCF projects and for questions, our staff and volunteers can’t answer, we forward them to the relevant project owner
@@ -67,7 +67,7 @@ CNCF provides a full portfolio of marketing services to support community and ec
 
 * Content ranges from webinars, CNCF blog, Kubernetes blogs, KubeWeekly, case studies, newsletters, presentations etc
 * Oversee blog editorial calendars and writing, editing, and/or identifying and funding freelancers to develop content
-* Quarterly project media velocity reports (e.g., for [gRPC](http://app.trendkite.com/report?id=b49bd64d-55d0-4ab5-81f4-51e755137073))
+* Quarterly project media velocity reports (e.g., for [gRPC](https://app.trendkite.com/report?id=b49bd64d-55d0-4ab5-81f4-51e755137073))
 * Pre-ordered, project-branded swag via CNCF [store](https://store.cncf.io/)
 * Help develop the project website
 * For example, CNCF recently took over the management of [Kubernetes.io](https://kubernetes.io/) from Google
@@ -115,9 +115,9 @@ We have a professional staff located in China that can help your project present
 
 ### How do I file a ticket with the Service Desk?
 
-If you’re a CNCF project committer/maintainer, all you have to do is visit [http://servicedesk.cncf.io](http://servicedesk.cncf.io/) or email [servicedesk@cncf.io](mailto:servicedesk@cncf.io) to request support.
+If you’re a CNCF project committer/maintainer, all you have to do is visit [https://servicedesk.cncf.io](https://servicedesk.cncf.io/) to request support.
 
-All CNCF maintainers are listed here: https://docs.google.com/spreadsheets/d/1Pr8cyp8RLrNGx9WBAgQvBzUUmqyOv69R7QAFKhacJEM/edit#gid=262035321
+All CNCF maintainers are listed [here](https://docs.google.com/spreadsheets/d/1Pr8cyp8RLrNGx9WBAgQvBzUUmqyOv69R7QAFKhacJEM/edit#gid=262035321).
 
 ### What happens if I want to use a tool or service not listed here?
 
@@ -131,9 +131,9 @@ Yes, you should receive a response within 48 hours.
 
 CNCF doesn't set a set amount of budget for each project and will work with you best on your needs.
 
-### I'm not getting a response to my ticket?
+### I don't have a ServiceDesk account
 
-If you emailed servicedesk@cncf.io and didn't receive an immediate email with a ticket created, you may not have a service desk account. Head to http://servicedesk.cncf.io and try to login, if you can't find an account, email info@cncf.io and one will be created for you.
+Head to https://servicedesk.cncf.io and try to login, if you can't find an account, email info@cncf.io and one will be created for you.
 
 ### I changed my email and lost my servicedesk access, what can I do to get it back?
 
