@@ -115,9 +115,9 @@ We have a professional staff located in China that can help your project present
 
 ### How do I file a ticket with the Service Desk?
 
-If you’re a CNCF project committer/maintainer, all you have to do is visit [http://servicedesk.cncf.io](http://servicedesk.cncf.io/) or email [servicedesk@cncf.io](mailto:servicedesk@cncf.io) to request support.
+If you’re a CNCF project committer/maintainer, all you have to do is visit [http://servicedesk.cncf.io](http://servicedesk.cncf.io/) to request support.
 
-All CNCF maintainers are listed here: https://docs.google.com/spreadsheets/d/1Pr8cyp8RLrNGx9WBAgQvBzUUmqyOv69R7QAFKhacJEM/edit#gid=262035321
+All CNCF maintainers are listed [here](https://docs.google.com/spreadsheets/d/1Pr8cyp8RLrNGx9WBAgQvBzUUmqyOv69R7QAFKhacJEM/edit#gid=262035321).
 
 ### What happens if I want to use a tool or service not listed here?
 
@@ -131,9 +131,9 @@ Yes, you should receive a response within 48 hours.
 
 CNCF doesn't set a set amount of budget for each project and will work with you best on your needs.
 
-### I'm not getting a response to my ticket?
+### I don't have a ServiceDesk account
 
-If you emailed servicedesk@cncf.io and didn't receive an immediate email with a ticket created, you may not have a service desk account. Head to http://servicedesk.cncf.io and try to login, if you can't find an account, email info@cncf.io and one will be created for you.
+Head to http://servicedesk.cncf.io and try to login, if you can't find an account, email info@cncf.io and one will be created for you.
 
 ### I changed my email and lost my servicedesk access, what can I do to get it back?
 
