@@ -131,6 +131,10 @@ Yes, you should receive a response within 48 hours.
 
 CNCF doesn't set a set amount of budget for each project and will work with you best on your needs.
 
+### How do I file a security CVE as a project?
+
+The CNCF is currently not an CNA, to submit a CVE use the MITRE CVE submission form: https://cve.mitre.org/cve/request_id.html
+
 ### I don't have a ServiceDesk account
 
 Head to https://servicedesk.cncf.io and try to login, if you can't find an account, email info@cncf.io and one will be created for you.
