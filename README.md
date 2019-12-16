@@ -111,6 +111,10 @@ We offer internationalization support for projects that require blog posts trans
 
 We have a professional staff located in China that can help your project present at local meetups and events. Also, we host one of the largest open source conferences, [KubeCon+CloudNativeCon China](https://www.lfasiallc.com/events/kubecon-cloudnativecon-china-2018/) every year and offer simultaneous live translations of presentations in both Chinese and English.
 
+## Sharing credentials, passwords or other confidential information
+
+CNCF doesn't enforce the projects to use any specific tool for sharing credentials, passwords or other confidential information, however we suggest using [Keybase](https://keybase.io/) as a preferred tool.
+
 ## FAQ 
 
 ### How do I file a ticket with the Service Desk?
