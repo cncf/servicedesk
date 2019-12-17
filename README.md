@@ -132,8 +132,12 @@ Yes, you should receive a response within 48 hours.
 CNCF doesn't set a set amount of budget for each project and will work with you best on your needs.
 
 ### How do I file a security CVE as a project?
+ 
+GitHub has also recently improved the ability to do security disclosures and generate CVEs, we recommend projects use this: https://help.github.com/en/github/managing-security-vulnerabilities/about-github-security-advisories#cve-identification-numbers - As a backup, you can submit a CVE use the MITRE CVE submission form: https://cve.mitre.org/cve/request_id.html (The CNCF is currently not an CNA).
 
-The CNCF is currently not an CNA, to submit a CVE use the MITRE CVE submission form: https://cve.mitre.org/cve/request_id.html
+### How do I share credentials, passwords or other confidential information?
+
+CNCF doesn't enforce the projects to use any specific tool for sharing credentials, passwords or other confidential information, however we recommend using [Keybase](https://keybase.io/).
 
 ### I don't have a ServiceDesk account
 
