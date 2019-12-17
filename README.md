@@ -45,6 +45,7 @@ CNCF Projects may freely select their own tools but the CNCF staff recommends an
 * Access to full-time CNCF staff who are eager to assist your project in myriad ways and help make it successful
 * Participate in the CNCF cross-project, cross-cloud continuous integration [program](https://github.com/cncf/cross-cloud/)
 * Security audits by independent third parties (e.g., https://coredns.io/2018/03/15/cure53-security-assessment/)
+* Distributed systems safety research via independent third parties (e.g., https://jepsen.io/)
 
 ## Event Management
 
