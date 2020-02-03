@@ -36,7 +36,7 @@ CNCF Projects may freely select their own tools but the CNCF staff recommends an
 * Discourse for community discussion (e.g., https://discuss.kubernetes.io)
 * [FOSSA](https://fossa.io) for license and security scanning
 * [HackerOne](https://www.hackerone.com) for bug bounties
-* Cloud computing infrastructure for the open source projects, for example - [CNCF Community Infrastructure Lab](https://github.com/CNCF/cluster), [AWS](https://www.cncf.io/announcement/2019/11/19/cloud-native-computing-foundation-receives-200000-in-credits-from-amazon-web-services-aws/) and [GCP](https://www.cncf.io/announcement/2018/08/29/cncf-receives-9-million-cloud-credit-grant-from-google/) credits.
+* Cloud computing infrastructure - [CNCF Community Infrastructure Lab](https://github.com/CNCF/cluster), [AWS](https://www.cncf.io/announcement/2019/11/19/cloud-native-computing-foundation-receives-200000-in-credits-from-amazon-web-services-aws/) and [GCP](https://www.cncf.io/announcement/2018/08/29/cncf-receives-9-million-cloud-credit-grant-from-google/) credits.
 
 ## Program Management
 
