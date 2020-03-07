@@ -149,7 +149,7 @@ To benefit from one of these offers, please submit the Service Desk ticket with 
 
 ### I don't have a ServiceDesk account
 
-Head to https://servicedesk.cncf.io and try to login, if you can't find an account, email info@cncf.io and one will be created for you.
+Head to the [Service Desk](https://cncfservicedesk.atlassian.net/servicedesk/customer/portal/1/user/login) web site and try to login, if you can't find an account, email info@cncf.io and one will be created for you.
 
 ### I changed my email and lost my servicedesk access, what can I do to get it back?
 
