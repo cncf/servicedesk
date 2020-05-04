@@ -140,7 +140,7 @@ GitHub has also recently improved the ability to do security disclosures and gen
 
 ### How do I share credentials, passwords or other confidential information?
 
-CNCF doesn't enforce the projects to use any specific tool for sharing credentials, passwords or other confidential information, however we recommend using [Keybase](https://keybase.io/).
+CNCF doesn't enforce the projects to use any specific tool for sharing credentials, passwords or other confidential information, however we recommend using [Keybase](https://keybase.io/) or applying for 1Password's [free open source plan](https://github.com/1Password/1password-teams-open-source).
 
 ### How can I use the computing infrastructure by CNCF?
 
