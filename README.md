@@ -1,118 +1,225 @@
 # CNCF ServiceDesk
 
-The Cloud Native Computing Foundation (CNCF) provides a variety of services and benefits to our projects to help make them more successful. The list below essentially represents each of the services that we have in the past provided to any project. We remain open to providing additional services, so if there are things you would like that are not listed, or if you have an issue but have not yet formulated your exact request, please still reach out to us.
+The CNCF offers a strong backbone of services to open source projects, built around the goal of sustaining most project needs outside of just code management and technical decisions. We offer an enhanced set of services via professional staff that cultivate the maturity and increased adoption of cloud native, open source projects. We take a data driven approach to working with our project and maintainer community; we actively survey to improve our services and community satisfaction on top of featuring services in our community spotlights.
+
+These services are offered as part of community stability, but do not replace developers on the projects themselves and are never meant to be in the critical path of a project release or a full time resource. Our goal in providing these shared services is to cultivate CNCF’s graduating and incubating projects, and offer sandbox projects the space to grow into incubating projects.
+
+CNCF hosts graduated, incubating, and sandbox projects. While we offer a shared set of services for all of our projects, we don’t provide substantial marketing services for sandbox projects as they are meant to be early stage projects that need a lightweight neutral home to grow naturally. Sandbox projects are prioritized lower for project services versus their incubating and graduated project peers.
+
+Finally, this list isn’t meant to be an exhaustive list of services offered by the foundation. There may be things your project needs help with that isn’t listed here and it’s completely OK to reach out to staff via the CNCF ServiceDesk and ask for help. 
 
 To improve access to CNCF services, we are implementing a service desk to serve as a single point access for all CNCF services. We’re modeling this on the 3-1-1 service that Mayor Bloomberg [rolled out](https://www1.nyc.gov/office-of-the-mayor/news/203-10/mayor-bloomberg-answers-100-millionth-call-311) in New York City to provide single point of access to all municipal services. Project maintainers that are used to interacting with CNCF staff members directly by email or Slack are welcome to continue to do so, and it will be that staff member’s responsibility to log the request in the CNCF ServiceDesk.
 
 CNCF’s services fall in the following general categories:
 
 * Foundation
-* Event management (host your own event or have a track)
-* Program management (governance, staff, third-party services)
-* Marketing services and programs (webinars, blogs, case studies, newsletters)
-* Marketing communications (press and analyst relations, social media management)
-* Certification and training services (expert certification, software conformance, training)
-* Legal services (trademark, copyright, patents, licenses)
+* Design and Aesthetics
+* Program Management
+* Legal Services
+* Tools
+* Technical Documentation
+* Continuous Integration
+* Certification and Training Services
+* End User Community
 * Internationalization
+* Marketing (event management, marketing services and programs, marketing communications)
+* Marketing announcements for projects
 
-## Foundation
+We offer CNCF projects and maintainers the following benefits:
 
-* The CNCF provides a variety of services and benefits to our projects to help make them more successful. Neutrality requires that projects contribute their trademark to CNCF so that: no company is favored over any other and CNCF ensures project governance is transparent and fair for everyone.
-* A neutral home for your project increases the willingness of developers from other enterprise software companies, start-ups and independent developers to collaborate, contribute, and become committers
-* Endorsement by members of the CNCF’s [Technical Oversight Committee](https://github.com/cncf/toc) is an independent signal of the quality of your project
-* Engagement with the CNCF’s End User community of leading companies doing cutting-edge cloud native deployments
-* Existing committers still control your project, and we just ask that you document a neutral governance process
-* Tens of thousands of dollars per year to improve project documentation
-* Maintain your committers, just commit to an unbiased process to elect additional committers
+## Foundation ##
+
+A neutral home for an open source project increases the willingness of developers from enterprise software companies, start-ups, and independent developers to collaborate, contribute, and become committers. CNCF’s [Technical Oversight Committee](https://www.cncf.io/people/technical-oversight-committee/) is the [technical governing body](https://github.com/cncf/toc), guided by [documented principals](https://github.com/cncf/toc/blob/master/PRINCIPLES.md), and admits and oversees all projects. Projects accepted into CNCF by the TOC is an independent signal of the quality of your project.
+
+For projects accepted into CNCF, the existing maintainers (or committers) still control the project. We help projects create a well-documented, neutral governance process. Any project that is added to CNCF must have ownership of its trademark and logo assets transferred to the Linux Foundation. For the full list of requirements, see [IP Policy](https://github.com/cncf/foundation/blob/master/charter.md#11-ip-policy).
+
+## Design and Aesthetics ##
+CNCF offers graphic design resources for all projects, provided primarily by our in-house design team. When new projects enter the foundation, they receive a new logo, website refresh if they wish, or an enhancement of their existing aesthetic. For example, see the [CloudEvents](https://cloudevents.io) or CNCF [SIG Security](https://github.com/cncf/sig-security) logo. If there is something creative you desire, please don’t hesitate to reach out!
+
+All project logos and color schemes are readily available via the [CNCF artwork github](https://github.com/cncf/artwork).
+
+## Program Management ##
+CNCF, our parent organization [The Linux Foundation](https://www.linuxfoundation.org/), and our [sibling projects](https://www.linuxfoundation.org/projects/) combined have years of experience in providing program management services for open source projects. We collaborate on best practices which we bring to CNCF hosted projects. 
+
+CNCF staff is available to assist and guide your project. Below are some of the activities:
+
+* CNCF will assist with collaborations between maintainers and [LF fellows](https://www.linuxfoundation.org/about/linux-foundation-fellows/) and CNCF sister projects in the LF to support knowledge sharing
+* Project governance creation and advice
+* Facilitating community meetings with support for online participation 
+* Administrative support for communication and project processes
+* [Security audits](https://github.com/cncf/toc/blob/master/docs/projects.md#project-audits) by independent third parties (e.g., Kubernetes security audit)
+* Distributed systems safety research via independent third parties (e.g. https://jepsen.io/)
+* Biweekly or monthly check in meetings with CNCF Staff as requested
+* Project activity tracking and contribution reporting via https://devstats.cncf.io
+
+## Legal Services ##
+Legal services keep a project healthy and in compliance with licensing requirements, intellectual property regimes, and industry norms. Specific legal services include:
+* A [neutral home for project assets and trademarks](https://github.com/cncf/artwork).
+* Registering trademarks for your projects across geographies as needed
+* Support and responses to threatened litigation. For example, we worked with the Kubespray maintainers to change their name back from Kargo after receiving a C&D.
+* Contributor License Agreement (CLA) system that integrates with GitHub. 
+* Developer Certificate of Origin (DCO) system that integrates with GitHub.
+* Protect trademarks, such as a Uniform Domain-Name Dispute-Resolution Policy (UDRP) action to take over kubernetes.cn.
+* Assistance with open source licensing review and strategy as needed
+* Access to legal staff should any legal questions arise.
 
 ## Tools
 
-CNCF Projects may freely select their own tools but the CNCF staff recommends and has existing relationships with these tools:
+CNCF Projects may freely select their own tools, produce their own documentation, and build their own websites. CNCF staff can support a project's activities in this area and can provide recommendations and/or access to these tools for your project. We also have special relationships with many vendors that offer enterprise level support.
 
-* Zoom video conferencing Pro accounts for video meetings, recordings, and scheduling
-* OpsGenie account for on-call rotations for production services, security disclosure lists, or other needs
-* LastPass to manage to shared secrets
-* Netlify for improved workflow/automation around documentation and websites
-* Discourse for community discussion (e.g., https://discuss.kubernetes.io)
+* [Zoom] (https://zoom.us/) video conferencing Pro accounts for video meetings, recordings, and scheduling
+* [OpsGenie](https://www.atlassian.com/software/opsgenie) account for on-call rotations for production services, security disclosure lists, or other needs
+* [LastPass](https://www.lastpass.com/), [1Password](https://github.com/1Password/1password-teams-open-source) and [Keybase](https://keybase.io) to manage to shared secrets
+* [Netlify](https://netlify.com) for website hosting, DNS management, and improved workflow/automation around documentation and websites
+* [Discourse](https://www.discourse.org/) for community discussion (e.g., https://discuss.kubernetes.io)
+* [Slack](https://slack.com) for communication for all projects in the Cloud Native Computing Foundation Slack
 * [FOSSA](https://fossa.io) for license and security scanning
 * [Snyk](https://snyk.io) for container image scanning
 * [HackerOne](https://www.hackerone.com) for bug bounties
-* Cloud computing infrastructure - [CNCF Community Infrastructure Lab](https://github.com/CNCF/cluster), [AWS](https://www.cncf.io/announcement/2019/11/19/cloud-native-computing-foundation-receives-200000-in-credits-from-amazon-web-services-aws/) and [GCP](https://www.cncf.io/announcement/2018/08/29/cncf-receives-9-million-cloud-credit-grant-from-google/) credits.
+* [Zapier](https://zapier.io) for task and workflow automation
 
-## Program Management
+CNCF staff is familiar with, and can help projects with, hosting on AWS, GCP, and Azure clouds. In some cases, we have credits available for free hosting. We also have our own [Community Infrastructure Lab](https://www.cncf.io/community/infrastructure-lab/)
 
-* Collaborate with our full-time press and analyst relations teams to increase awareness and excitement of the projects
-* Receive regular reports on press mentions and comparisons to similar projects
-* Leverage the expertise of its parent organization, The Linux Foundation, which hosts other successful projects including Hyperledger, ONAP, the Linux kernel, Let’s Encrypt, and Node.js. For example, CNCF arranged a collaboration between Kubernetes developers and Linux Foundation fellow and stable kernel maintainer Greg Kroah-Hartman to [discuss](https://www.linux.com/news/greg-kroah-hartman-gives-inside-look-largest-fastest-software-project-all) high-velocity software development techniques
-* Access to full-time CNCF staff who are eager to assist your project in myriad ways and help make it successful
-* Participate in the CNCF cross-project, cross-cloud continuous integration [program](https://github.com/cncf/cross-cloud/)
-* Security audits by independent third parties (e.g., https://coredns.io/2018/03/15/cure53-security-assessment/)
-* Distributed systems safety research via independent third parties (e.g., https://jepsen.io/)
+## Technical Documentation ##
+CNCF invests thousands of dollars per year to improve project documentation and website development. This includes improving website hosting, project documentation hosting, adding tutorials, how-to guides and acting on project requests.
 
-## Event Management
+Documentation Examples
+* [Kubernetes](https://kubernetes.io) (i18n support and case studies)
+* [Harbor](https://goharbor.io/) (full redesign)
+* [gRPC](https://grpc.io) (full redesign and contracted tech writing support)
+* [Helm](https://helm.sh) (build pipeline overhaul and i18n support)
 
-* Events are a part of CNCF’s core strategy and they help your project build a community with face-to-face interaction and knowledge sharing
-* Create a track for your project at our [KubeCon + CloudNativeCon](https://kubecon.io/) events with our world-class events team, bringing together vendors, developers and end users. We host events every year in Europe, China, and North America. In addition, we can help create a custom conference for you
-* Run events targeted specifically for your project (like [PromCon](https://promcon.io/) or [EnvoyCon](https://events.linuxfoundation.org/events/envoycon/)), and/or be a sponsor at those events
-* Travel funding available for your non-corporate-backed developers and to increase  attendance of women and other underrepresented minorities
-* Connect to our worldwide network of Cloud Native [meetup groups](https://www.meetup.com/pro/cncf/) and ambassadors to raise awareness of your project. We will also help sponsor meetup groups dedicated to your project so food and beverages can be provided
-* Host a set of well-received networking events with leading VCs, which provides additional visibility for projects
-* CNCF assists with the events of its parent, the Linux Foundation, which are called Open Source Summits (OSS) and held every year in [North America](https://events.linuxfoundation.org/events/open-source-summit-north-america), [Europe](https://events.linuxfoundation.org/events/open-source-summit-europe), [Japan](https://events.linuxfoundation.org/events/open-source-summit-japan-2018/), and [China](https://www.lfasiallc.com/events/lc3-2018/), as well as the invitation-only Open Source Leadership Summit
-* CNCF assists with sponsorship leads, media introductions, co-location opportunities and marketing of the event
-* CNCF sponsors over 30 third-party cloud events each year including, OSCON, Google Next, AWS Reinvent, DockerCon, Microsoft Build and more
-* We [promote](https://twitter.com/CloudNativeFdn/status/862384302113251328) all CNCF projects and for questions, our staff and volunteers can’t answer, we forward them to the relevant project owner
-* Project contributors are welcome to use our booth as a "home base" for meeting colleagues
-* CNCF organizes smaller events like the Kubernetes Software Conformance Working Group [meetings](https://github.com/cncf/k8s-conformance#past-meetings--presentations) for 10-30 people every couple months
+## Continuous Integration ##
+In the contemporary software landscape, virtually all major projects require heavy investment in continuous integration (CI) systems, which provide those projects with automated testing, dependency checking, security vetting, and so on. CNCF covers CI needs for our hosted projects and allows those projects to select their own platforms; many CI systems are currently in use amongst CNCF projects, including [Travis CI](https://travis-ci.org/), [GitHub Actions](https://github.com/features/actions), [GitLab CI](https://about.gitlab.com/blog/2019/05/21/fluentd-using-gitlab-ci-cd/), [Azure Pipelines](https://azure.microsoft.com/en-us/services/devops/pipelines/), and [Prow](https://github.com/kubernetes/test-infra/tree/master/prow), the Kubernetes-based (and thus CNCF-sponsored) CI system used for Kubernetes and even some non-CNCF projects. Some projects are perfectly well served with fairly basic CI setups, whereas projects like Kubernetes and Envoy require significant financial and human resources.
 
-## Marketing Services and Programs
+Also, CNCF projects can also participate in [cncf.ci](https://cncf.ci), the CNCF’s cross-project, cross-cloud continuous integration program.
 
-CNCF provides a full portfolio of marketing services to support community and ecosystem engagement, including:
+## Certification and Training Services ##
+CNCF, along with the Linux Foundation, has made a major investment in implementing [training](https://www.cncf.io/certification/training/), expert certification for Kubernetes [developers](https://www.cncf.io/certification/ckad/) and [administrators](https://www.cncf.io/certification/cka/), and provider certification programs for Kubernetes as well as training for CNCF projects Prometheus and Fluentd. We have also worked with The Linux Foundation training team to develop self-paced online courses that can scale up a project’s reach beyond what’s possible using instructor-led courses. Over time, we expect to expand the training options to cover other projects. Examples of training we've already developed include:
 
-* Content ranges from webinars, CNCF blog, Kubernetes blogs, KubeWeekly, case studies, newsletters, presentations etc
-* Oversee blog editorial calendars and writing, editing, and/or identifying and funding freelancers to develop content
-* Quarterly project media velocity reports (e.g., for [gRPC](https://app.trendkite.com/report?id=b49bd64d-55d0-4ab5-81f4-51e755137073))
-* Pre-ordered, project-branded swag via CNCF [store](https://store.cncf.io/)
-* Help develop the project website
-* For example, CNCF recently took over the management of [Kubernetes.io](https://kubernetes.io/) from Google
-* Recently we took over the redesign of [Kubernetes Community](https://kubernetes.io/community/) site while the project maintainers continue to manage it
+* Free Introduction to [Kubernetes course on edX](https://www.edx.org/course/introduction-to-kubernetes) MOOC
+* [Certified Kubernetes Administrator (CKA)](https://www.cncf.io/certification/cka/) exam 
+* [CKAD](https://www.cncf.io/certification/ckad/): Kubernetes for Developers
+* [Monitoring Systems and Services with Prometheus](https://training.linuxfoundation.org/training/monitoring-systems-and-services-with-prometheus-lfs241/)
 
-## Marketing Communications
+## End User Community ##
+CNCF’s [End User Community](https://www.cncf.io/people/end-user-community/) includes over 140 top companies and startups that depend on cloud native technologies and are committed to collaborative infrastructure development. The End User Community is an active participant in key technology decisions by CNCF-hosted projects with leadership positions on the TOC and contributions to many CNCF projects. 
 
-* Generate positive media and analyst coverage to create greater awareness of project milestones, community growth, and developer engagement
+For the definition of an end user see: https://github.com/cncf/toc/blob/master/FAQ.md#what-is-the-definition-of-an-end-user
+
+CNCF end users are telling their stories to help elevate the technical conversations to business objectives and challenges. CNCF projects are featured in these use cases and the impact cloud native projects are having on their business. You can explore case studies by project, such as [Prometheus](https://www.cncf.io/newsroom/case-studies/?_sft_cstudies_project=prometheus) or [Envoy](https://www.cncf.io/newsroom/case-studies/?_sft_cstudies_project=envoy).
+
+## Internationalization ##
+CNCF has professional staff located in Asia Pacific to assist projects with their activities in that region. We offer internationalization support including:
+* Assistance for projects presenting at meetups and events.
+* Simultaneous live translations in both Chinese and English for our flagship KubeCon + CloudNativeCon China.
+* Translation services for projects that wish to have blog posts translated into other languages, see [Falco](https://falco.org/jp/) as an example.
+
+## Marketing ## 
+Marketing services for projects are designed to assist with the awareness of the project, increase project adoption, and increase contributors. CNCF has marketing resources to support the projects in the following areas:
+
+### Event Management ###
+Events are a part of CNCF’s core strategy and they help our project’s build a community with face-to-face interaction and knowledge sharing. KubeCon + CloudNativeCon, our flagship event, brings over 20,000 people together through our three regional events; North America, Europe, and China.
+
+CNCF also runs and supports events targeted specifically for your project, we provide:
+* Full event planning and logistical support
+* Integrated marketing and communication plan including an event website, communications, and marketing of the event
+* Obtaining sponsors for the event
+* Media introductions
+* Co-location opportunities with other LF events such as Open Source Summit
+
+Some of the CNCF projects that have held their project specific events:
+* [PromCon](https://promcon.io/)
+* [EnvoyCon](https://events19.linuxfoundation.org/events/envoycon-2019/)
+* [gRPC Conf](https://events.linuxfoundation.org/grpc-conf/)
+* [Helm Summit](https://events19.linuxfoundation.org/events/helm-summit-2019/)
+
+Projects and project maintainers can participate in CNCF events by:
+* Creating a track for your project at KubeCon + CloudNativeCon events.
+* At KubeCon + CloudNativeCon, host 2 maintainer sessions (an intro and deep dive) for your project.
+* Participate in the Meet the Maintainer booths at KubeCon + CloudNativeCon events
+* Submissions for call-for-proposals at KubeCon + CloudNativeCon are encouraged to discuss their use of CNCF projects.
+* CNCF sponsors many [third-party events](https://www.cncf.io/events-well-be-at/) each year, both in-person and virtual. Often with a booth, we encourage project maintainers to join CNCF in our participation to meet the event attendees and talk about your project. For virtual events, we advocate for presentations by project maintainers.
+* CNCF supports numerous [Linux Foundation events](https://events.linuxfoundation.org/) such as Open Source Summit and Open Networking Summit. We love to have project maintainers join CNCF at these events to educate the broader ecosystem on open source cloud native projects.
+* For in-person events, project contributors are welcome to use our booth as a “home base” for meeting colleagues.
+* Connect to our worldwide network of [CNCF meetup groups](https://www.meetup.com/pro/cncf) and [ambassadors](https://www.cncf.io/people/ambassadors/) to raise awareness of your project.
+* Travel funding available for your non-corporate-backed developers and to increase  attendance of women and other underrepresented minorities.
+* At events, we promote all CNCF projects and help connect users and developers to our projects.
+
+### Marketing Services and Programs ###
+CNCF provides a full portfolio of marketing services and programs to support community and ecosystem engagement for CNCF projects. This includes:
+
+* [CNCF Webinar](https://github.com/cncf/foundation/blob/master/webinar-guidelines.md): Graduated and incubating projects can hold a webinar twice a year. These webinars can communicate release launch details or provide a project update. The exception is Kubernetes who holds a webinar each quarter approximately 30 days after the release.
+* [CNCF Blog](https://github.com/cncf/foundation/blob/master/blog-guidelines.md) and [Kubernetes.io Blog](https://kubernetes.io/docs/contribute/new-content/blogs-case-studies/): Graduated and incubating projects can submit blog posts. Share technical content and how-to’s, stories about cloud native and project deployments, and use cases and success stories. Blog posts should not be vendor pitches. They must contain content that applies broadly to the Kubernetes and cloud native community. The Kubernetes blog receives over 1.5M visits a week. 
+* [Case Studies](https://github.com/cncf/foundation/blob/master/case-study-guidelines.md): End user case studies help elevate the technical conversations to business objectives and challenges. This program features use cases and the impact CNCF project and cloud native technologies are having on end users’ businesses. The case studies build narratives around specific metrics that reflect the positive as a resource for companies considering adopting cloud native technologies.
+* [Newsletter](https://lists.cncf.io/g/newsletter/topic/cncf_newsletter_february/71376258?p=,,,20,0,0,0::recentpostdate%2Fsticky,,,20,2,0,71376258): The CNCF newsletter is published monthly. Project updates are a regular feature in the newsletter.
+* CNCF manages the blog editorial calendar for balanced content shared with the community. We also provide writing, editing, and funding freelancers to develop content.
+* Project media velocity reports: Monthly, CNCF pulls press mentions and share of voice data for all projects including mentions in social media and key messaging.
+
+### Marketing Communications ###
+The goal of marketing communications is to generate awareness for the project and project milestones, community growth, and developer engagement. The communication activities provided by CNCF include:
+
+* Proactive media and analyst coverage for projects including arranging and assisting with interviews and information sessions
 * Promote project news and milestones through other channels: journalists, analysts, and news releases/blogs
 * Identify top publications/podcasts (Bloomberg, Changelog, eWeek, Fortune, Forbes, InfoWorld, The New Stack, etc.) and develop plans to earn coverage through contributed articles, quotes, interviews, and news pick-up
-* Develop thought leadership reports, surveys, success stories, and case studies (print and video)
-* Manage social media channels (Twitter, LinkedIn, Facebook, YouTube, WeChat)
 * Secure analyst briefings for inclusion in reports: Gartner, Forrester, IDC, RedMonk, 451 Research and more
-* Coordinate speakers’ bureaus for key maintainers/developers (e.g. developer-driven conference panels)
-* Organize media/analyst luncheons,1:1 meetings at key events (for example, we are arranging over 30 press and analysts attend CloudNativeCon + KubeCon China and we help schedule back-to-back meetings with project maintainers and contributors for many of them)
+* Organize media/analyst luncheons,1:1 meetings at key events
+* Develop thought leadership reports, surveys, success stories, and case studies (print and video)
+* Coordinate speakers’ bureau for key maintainers/developers (e.g. developer-driven conference panels)
+* Actively manage project social media channels (Twitter, LinkedIn, YouTube, Github, Flickr)
 
-## Certification and Training Services
+### Surveys ###
+The CNCF marketing team can help create surveys for your project to help ascertain adoption or other interests. A prominent example is our annual [Cloud Native Community Surveys](https://github.com/cncf/surveys). For smaller, more targeted surveys, we can assist. Submit a request via the [CNCF Service Desk](https://cncfservicedesk.atlassian.net/servicedesk/customer/portal/1).
 
-CNCF has made a major investment to implement training, expert certification and provider certification programs for Kubernetes. Over time, we expect to expand these to cover other projects as well
+## Marketing announcements for projects## 
+As projects have major or minor releases or move through the [maturity levels](https://www.cncf.io/projects/), CNCF works with the projects on outbound communications. Below are the items we can do with you. 
 
-* Free Introduction to Kubernetes course on edX MOOC (~44000 enrollments): https://www.edx.org/course/introduction-to-kubernetes
-* Certified Kubernetes Administrator (CKA) exam (over 4700 registrants): https://www.cncf.io/certification/cka
-* CKA Developer course (CKAD): Kubernetes for Developers: https://www.cncf.io/certification/ckad
-* CNCF is working with The Linux Foundation training team to develop self-paced online courses that can scale up a project’s reach beyond what’s possible using instructor-led courses
 
-## Legal Services
+### Project entering and moving through the maturity levels ###
+Every project has different needs and staff works with projects based on those needs. Below are the services offered as a project moves through the different graduation levels and the support for graduated and incubating project releases. 
 
-* CNCF legal resources respond to threatened litigation (e.g., we worked with the Kubespray maintainers to change their name back from Kargo after receiving a cease and desist letter)
-* CLA system that integrates with GitHub (identity.linuxfoundation.org/projects/cncf)
-* DCO system that integrates with GitHub
-* Access to CNCF and LF staff should any legal questions arise
-* Protect trademarks, such as a UDRP action to take over kubernetes.cn
+#### Graduation ####
+Projects moving to Graduation level receive:
+* Press release announcement 
+* Presentation slot at the upcoming KubeCon + CloudNativeCon
+* Embargoed pitch of the release and top features to the media. Requests for interviews go to the project team.
+( Tweet on announcement day, including social card
 
-We remain open to providing additional services, so if there are things you would like that is not listed, or if you have an issue but have not yet formulated your exact request, please still reach out to us at [info@cncf.io](mailto:info@cncf.io).
+### Incubating ###
+Projects at the Incubation level receive:
+* Blog post announcement on cncf.io written by CNCF marketing with assistance from the project team.
+* Embargoed pitch of the announcement and top features to the media. Requests for interviews go to the project team.
+* Tweet on announcement day, including social card 
 
-## Internationalization
+### Sandbox ###
+Projects coming in as Sandbox
+* Tweet via @CloudNativeFdn, mentioning the Sandbox project name, on announcement day.
+* If the media contacts CNCF regarding the news, CNCF will make an introduction directly to the project.
+* Correct terminology: “Cloud Native Sandbox” or “CNCF Sandbox projects”
+* CNCF does not provide press outreach, a CNCF or TOC briefing, a blog, or a social card
+ * Exception: A member may share a blog about any open source project, including a Sandbox project. See the [CNCF blog guidelines](https://github.com/cncf/foundation/blob/master/blog-guidelines.md)
 
-We offer internationalization support for projects that require blog posts translated into Chinese or other languages. For examples, see the [TiKV](https://www.cncf.io/blog/2018/08/28/cncf-to-host-tikv-in-the-sandbox/) and [Harbor](https://www.cncf.io/blog/2018/07/31/cncf-to-host-harbor-in-the-sandbox/) blog posts.
+### Project launches and new release support ###
+#### Graduated projects: major and minor release ####
+* Project webinar, up to a max of 2 per year
+* Blog post announcement on cncf.io either written by CNCF PR with assistance by the project, re-posting of project's own blog post, or a blog post written exclusively for cncf.io by the project team 
+* Embargoed or day-of pitch of the release and top features to the media as relevant. Requests for interviews go to the project team for interviews.
+* Tweet on announcement day 
 
-### China
+#### Incubating projects: major release ####
+* Project webinar, up to a max of 2 per year
+* Blog post announcement on cncf.io either written by CNCF PR with assistance by the project, re-posting of project's own blog post, or a blog post written exclusively for cncf.io by the project team
+* Embargoed or day-of pitch of the release and top features to the media as relevant. Requests for interviews go to the project team for interviews
+* Tweet on announcement day 
 
-We have a professional staff located in China that can help your project present at local meetups and events. Also, we host one of the largest open source conferences, [KubeCon+CloudNativeCon China](https://www.lfasiallc.com/events/kubecon-cloudnativecon-china-2018/) every year and offer simultaneous live translations of presentations in both Chinese and English.
+
+## Other Services ##
+
+This list isn't a comprehensive list of all services covered. Projects can, and do, request additional services through [CNCF Service Desk](https://cncfservicedesk.atlassian.net/servicedesk/customer/portal/1) and we work to get them help they need.
+
+To contribute your project to CNCF or discuss how CNCF can help your project, email info@cncf.io and read the TOC repo https://github.com/cncf/toc#projects
+
+
 
 ## FAQ 
 
