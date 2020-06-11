@@ -67,7 +67,7 @@ Legal services keep a project healthy and in compliance with licensing requireme
 
 CNCF Projects may freely select their own tools, produce their own documentation, and build their own websites. CNCF staff can support a project's activities in this area and can provide recommendations and/or access to these tools for your project. We also have special relationships with many vendors that offer enterprise level support.
 
-* [Zoom] (https://zoom.us/) video conferencing Pro accounts for video meetings, recordings, and scheduling
+* [Zoom](https://zoom.us/) video conferencing Pro accounts for video meetings, recordings, and scheduling
 * [OpsGenie](https://www.atlassian.com/software/opsgenie) account for on-call rotations for production services, security disclosure lists, or other needs
 * [LastPass](https://www.lastpass.com/), [1Password](https://github.com/1Password/1password-teams-open-source) and [Keybase](https://keybase.io) to manage to shared secrets
 * [Netlify](https://netlify.com) for website hosting, DNS management, and improved workflow/automation around documentation and websites
