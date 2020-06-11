@@ -148,6 +148,12 @@ CNCF prefers projects evaluate using our [Community Cluster](https://github.com/
 
 To benefit from one of these offers, please submit the Service Desk ticket with the detailed descrition of the request, including the purpose, list of the desired services and a rough cost.
 
+Code being run must be 100 percent open source and must not include any sensitive data.
+
+Please note that available computing resources are limited so we may ask you to reduce your usage when there is high demand for the available credits. Specifically, please consider shutting down the unused computing resources, use automation to terminate the bare metal/virtual machines if they are not intended to be used 24/7, use spot instances if applicable etc.
+
+CNCF expects fair usage of the allocated resources and credits, and reserves the right to terminate any allocated infrastructure resources and revoke the access to them in the case of violation of these rules.
+
 ### I don't have a ServiceDesk account
 
 Head to the [Service Desk](https://cncfservicedesk.atlassian.net/servicedesk/customer/portal/1/user/login) web site and try to login, if you can't find an account, email info@cncf.io and one will be created for you.
