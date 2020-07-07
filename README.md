@@ -76,7 +76,7 @@ CNCF Projects may freely select their own tools, produce their own documentation
 * [FOSSA](https://fossa.io) for license and security scanning
 * [Snyk](https://snyk.io) for container image scanning
 * [HackerOne](https://www.hackerone.com) for bug bounties
-* [Zapier](https://zapier.io) for task and workflow automation
+* [Zapier](https://zapier.com) for task and workflow automation
 
 CNCF staff is familiar with, and can help projects with, hosting on AWS, GCP, and Azure clouds. In some cases, we have credits available for free hosting. We also have our own [Community Infrastructure Lab](https://www.cncf.io/community/infrastructure-lab/)
 
