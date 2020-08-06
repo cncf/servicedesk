@@ -257,7 +257,7 @@ To benefit from one of these offers, please submit the Service Desk ticket with 
 
 Code being run must be 100 percent open source and must not include any sensitive data.
 
-Please note that available computing resources are limited so we may ask you to reduce your usage when there is high demand for the available credits. Specifically, please consider shutting down the unused computing resources, use automation to terminate the bare metal/virtual machines if they are not intended to be used 24/7, use spot instances if applicable etc.
+Please note that available computing resources are limited so we may ask you to reduce your usage when there is high demand for the available credits. Specifically, please consider shutting down the unused computing resources, use automation to terminate the bare metal/virtual machines if they are not intended to be used 24/7, use spot instances if applicable etc. Please estimate your budget to use no more that $3000/month in AWS credits. If you expect higher resources usage on the regular basis, please consider using the [CNCF Cluster](https://github.com/CNCF/cluster) instead.
 
 CNCF expects fair usage of the allocated resources and credits, and reserves the right to terminate any allocated infrastructure resources and revoke the access to them in the case of violation of these rules.
 
