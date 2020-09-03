@@ -171,7 +171,7 @@ The goal of marketing communications is to generate awareness for the project an
 ### Surveys ###
 The CNCF marketing team can help create surveys for your project to help ascertain adoption or other interests. A prominent example is our annual [Cloud Native Community Surveys](https://github.com/cncf/surveys). For smaller, more targeted surveys, we can assist. Submit a request via the [CNCF Service Desk](https://cncfservicedesk.atlassian.net/servicedesk/customer/portal/1).
 
-## Marketing announcements for projects## 
+## Marketing announcements for projects ## 
 As projects have major or minor releases or move through the [maturity levels](https://www.cncf.io/projects/), CNCF works with the projects on outbound communications. Below are the items we can do with you. 
 
 
