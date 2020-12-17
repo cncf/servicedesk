@@ -77,6 +77,7 @@ CNCF Projects may freely select their own tools, produce their own documentation
 * [Snyk](https://snyk.io) for container image scanning
 * [HackerOne](https://www.hackerone.com) for bug bounties
 * [Zapier](https://zapier.com) for task and workflow automation
+* [Docker Hub](https://hub.docker.com/) for container images storing and managing
 
 CNCF staff is familiar with, and can help projects with, hosting on AWS, GCP, and Azure clouds. In some cases, we have credits available for free hosting. We also have our own [Community Infrastructure Lab](https://www.cncf.io/community/infrastructure-lab/)
 
@@ -260,6 +261,14 @@ Code being run must be 100 percent open source and must not include any sensitiv
 Please note that available computing resources are limited so we may ask you to reduce your usage when there is high demand for the available credits. Specifically, please consider shutting down the unused computing resources, use automation to terminate the bare metal/virtual machines if they are not intended to be used 24/7, use spot instances if applicable etc. Please estimate your budget to use no more that $3000/month in AWS credits. If you expect higher resources usage on the regular basis, please consider using the [CNCF Cluster](https://github.com/CNCF/cluster) instead.
 
 CNCF expects fair usage of the allocated resources and credits, and reserves the right to terminate any allocated infrastructure resources and revoke the access to them in the case of violation of these rules.
+
+### My project is affected by the [Docker Hub rate limits policy changes](https://www.docker.com/increase-rate-limits), what can I do?
+
+In 2020, Docker announced the changes to [image retention](https://www.docker.com/blog/scaling-dockers-business-to-serve-millions-more-developers-storage/) and [data pull rates](https://www.docker.com/blog/scaling-docker-to-serve-millions-more-developers-network-egress/).
+
+CNCF has reached an agreement with Docker that these limits can be eliminated for the CNCF projects - if your project is affected by these changes, please consider applying to the [Docker Expanded Support for Open Source Software Projects](https://www.docker.com/blog/expanded-support-for-open-source-software-projects/) program via the [form](https://www.docker.com/open-source-application).
+
+NOTE: To have you application processed correctly by Docker, please explicitly mention that your project is hosted by CNCF.
 
 ### I don't have a ServiceDesk account
 
