@@ -83,7 +83,13 @@ CNCF Projects may freely select their own tools, produce their own documentation
 CNCF staff is familiar with, and can help projects with, hosting on AWS, GCP, and Azure clouds. In some cases, we have credits available for free hosting. We also have our own [Community Infrastructure Lab](https://www.cncf.io/community/infrastructure-lab/)
 
 ## Technical Documentation ##
-CNCF invests thousands of dollars per year to improve project documentation and website development. This includes improving website hosting, project documentation hosting, adding tutorials, how-to guides and acting on project requests.
+CNCF invests significant capital per year to improve project documentation. This includes the following services:
+
+* Documentation assessments to help projects understand where to make improvements
+* Website hosting and setup
+* [Office hours](https://github.com/cncf/techdocs#office-hours) for face-to-face time with writers
+* Technical writers and contractors for specific projects
+See [Documentation services for projects](https://github.com/cncf/techdocs/blob/main/services.md) for a full description of what the technical documentation team offers.
 
 Documentation Examples
 * [Kubernetes](https://kubernetes.io) (i18n support and case studies)
