@@ -83,7 +83,7 @@ CNCF Projects may freely select their own tools, produce their own documentation
 CNCF staff is familiar with, and can help projects with, hosting on AWS, GCP, and Azure clouds. In some cases, we have credits available for free hosting. We also have our own [Community Infrastructure Lab](https://www.cncf.io/community/infrastructure-lab/)
 
 ## Technical Documentation ##
-CNCF invests thousands of dollars per year to improve project documentation. This includes the following services:
+CNCF invests significant capital per year to improve project documentation. This includes the following services:
 
 * Documentation assessments to help projects understand where to make improvements
 * Website hosting and setup
