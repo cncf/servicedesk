@@ -281,6 +281,10 @@ NOTE: To have you application processed correctly by Docker, please explicitly m
 
 Head to the [Service Desk](https://cncfservicedesk.atlassian.net/servicedesk/customer/portal/1/user/login) web site and try to login, if you can't find an account, email info@cncf.io and one will be created for you.
 
+#### I am a Kubernetes SIG chair and I don't have a ServiceDesk account
+
+The CNCF ServiceDesk policy for Kubernetes community is defined at [Kubernetes Steering repo](https://github.com/kubernetes/steering/blob/master/service-desk.md).
+
 ### I changed my email and lost my servicedesk access, what can I do to get it back?
 
 Email info@cncf.io and one will be created for you.
