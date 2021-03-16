@@ -275,7 +275,7 @@ In 2020, Docker announced the changes to [image retention](https://www.docker.co
 
 CNCF has reached an agreement with Docker that these limits can be eliminated for the CNCF projects - if your project is affected by these changes, please consider applying to the [Docker Expanded Support for Open Source Software Projects](https://www.docker.com/blog/expanded-support-for-open-source-software-projects/) program via the [form](https://www.docker.com/open-source-application).
 
-NOTE: To have you application processed correctly by Docker, please explicitly mention that your project is hosted by CNCF.
+NOTE: To have you application processed correctly by Docker, please explicitly mention that your project is hosted by CNCF. Also, please note that the approval process may take up to a few weeks.
 
 ### I don't have a ServiceDesk account
 
