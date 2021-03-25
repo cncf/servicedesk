@@ -79,6 +79,7 @@ CNCF Projects may freely select their own tools, produce their own documentation
 * [Zapier](https://zapier.com) for task and workflow automation
 * [Docker Hub](https://hub.docker.com/) for container images storing and managing
 * [LFX Security](https://lfx.linuxfoundation.org/tools/security/) for the source code security scanning and license compliance [white-labeled Snyk]
+* [Credly](https://www.youracclaim.com/badges/538d249f-ec6d-4c5c-93f4-44d7c5596b36/twitter) Custom badges powered by Credly
 
 CNCF staff is familiar with, and can help projects with, hosting on AWS, GCP, and Azure clouds. In some cases, we have credits available for free hosting. We also have our own [Community Infrastructure Lab](https://www.cncf.io/community/infrastructure-lab/)
 
