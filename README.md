@@ -278,6 +278,10 @@ CNCF has reached an agreement with Docker that these limits can be eliminated fo
 
 NOTE: To have you application processed correctly by Docker, please explicitly mention that your project is hosted by CNCF. Also, please note that the approval process may take up to a few weeks.
 
+### My builds are slow, I would like to have expanded capacity for GitHub Actions, what can I do?
+
+The CNCF has a special partnership with GitHub, please file a [Service Desk](https://cncfservicedesk.atlassian.net/servicedesk/customer/portal/1/user/login) ticket and we can expand the amount of hosted runner minutes. Note, some projects have also expanded their build capacity by using the CNCF Cluster via [GHA External Runners](https://docs.github.com/en/actions/hosting-your-own-runners/about-self-hosted-runners)
+
 ### I don't have a ServiceDesk account
 
 Head to the [Service Desk](https://cncfservicedesk.atlassian.net/servicedesk/customer/portal/1/user/login) web site and try to login, if you can't find an account, email info@cncf.io and one will be created for you.
