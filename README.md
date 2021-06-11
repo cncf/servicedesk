@@ -80,6 +80,7 @@ CNCF Projects may freely select their own tools, produce their own documentation
 * [Docker Hub](https://hub.docker.com/) for container images storing and managing
 * [LFX Security](https://lfx.linuxfoundation.org/tools/security/) for the source code security scanning and license compliance [white-labeled Snyk]
 * [Credly](https://info.credly.com) Custom badges powered by Credly (example [Linkerd Hero](https://www.youracclaim.com/badges/538d249f-ec6d-4c5c-93f4-44d7c5596b36/twitter) program)
+* [Scarf](https://scarf.sh) for advanced analytics for container & artifact distribution, package installation, and web traffic to source documentation 
 
 CNCF staff is familiar with, and can help projects with, hosting on AWS, GCP, and Azure clouds. In some cases, we have credits available for free hosting. We also have our own [Community Infrastructure Lab](https://www.cncf.io/community/infrastructure-lab/)
 
@@ -260,9 +261,9 @@ CNCF doesn't enforce the projects to use any specific tool for sharing credentia
 
 ### How can I use the computing infrastructure by CNCF?
 
-CNCF prefers projects evaluate using our [Community Cluster](https://github.com/cncf/cluster) first. We have partnered with the variuos providers that offer discounted or free services for the CNCF projects. For example, the CNCF projects may use the credits, [offered by Amazon Web Services for CNCF](https://www.cncf.io/announcement/2019/11/19/cloud-native-computing-foundation-receives-200000-in-credits-from-amazon-web-services-aws/) for the upstream testing, CI/CD and other purposes. See the [Tools](#tools) sections on this page for more details.
+CNCF prefers projects evaluate using our [Community Cluster](https://github.com/cncf/cluster) first. We have partnered with the various providers that offer discounted or free services for the CNCF projects. For example, the CNCF projects may use the credits, [offered by Amazon Web Services for CNCF](https://www.cncf.io/announcement/2019/11/19/cloud-native-computing-foundation-receives-200000-in-credits-from-amazon-web-services-aws/) for the upstream testing, CI/CD and other purposes. See the [Tools](#tools) sections on this page for more details.
 
-To benefit from one of these offers, please submit the Service Desk ticket with the detailed descrition of the request, including the purpose, list of the desired services and a rough cost.
+To benefit from one of these offers, please submit the Service Desk ticket with the detailed description of the request, including the purpose, list of the desired services and a rough cost.
 
 Code being run must be 100 percent open source and must not include any sensitive data.
 
