@@ -203,7 +203,7 @@ Projects at the Incubation level receive:
 
 ### Sandbox ###
 Projects coming in as Sandbox
-* Tweet via @CloudNativeFdn, mentioning the Sandbox project name, on announcement day.
+* An announcement to the TOC mailing list on the day they are included into the Sandbox.
 * If the media contacts CNCF regarding the news, CNCF will make an introduction directly to the project.
 * Correct terminology: “Cloud Native Sandbox” or “CNCF Sandbox projects”
 * CNCF does not provide press outreach, a CNCF or TOC briefing, a blog, or a social card
