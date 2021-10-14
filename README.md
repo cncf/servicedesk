@@ -165,6 +165,7 @@ CNCF provides a full portfolio of marketing services and programs to support com
 * [Newsletter](https://lists.cncf.io/g/newsletter/topic/cncf_newsletter_february/71376258?p=,,,20,0,0,0::recentpostdate%2Fsticky,,,20,2,0,71376258): The CNCF newsletter is published monthly. Project updates are a regular feature in the newsletter.
 * CNCF manages the blog editorial calendar for balanced content shared with the community. We also provide writing, editing, and funding freelancers to develop content.
 * Project media velocity reports: Monthly, CNCF pulls press mentions and share of voice data for all projects including mentions in social media and key messaging.
+* [Fashion a Phippy](https://github.com/foundation/blob/master/phippy-guidelines.md): Graduated projects can donate a character to the [Phippy and Friends](https://www.cncf.io/phippy/) program, to help others better understand the concepts of cloud native computing, and increasing the marketing and engagement opportunities for their project.
 
 ### Marketing Communications ###
 The goal of marketing communications is to generate awareness for the project and project milestones, community growth, and developer engagement. The communication activities provided by CNCF include:
