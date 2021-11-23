@@ -176,7 +176,6 @@ The goal of marketing communications is to generate awareness for the project an
 * Secure analyst briefings for inclusion in reports: Gartner, Forrester, IDC, RedMonk, 451 Research and more
 * Organize media/analyst luncheons,1:1 meetings at key events
 * Develop thought leadership reports, surveys, success stories, and case studies (print and video)
-* Coordinate speakers’ bureau for key maintainers/developers (e.g. developer-driven conference panels)
 * Actively manage project social media channels (Twitter, LinkedIn, YouTube, Github, Flickr)
 
 ### Surveys ###
