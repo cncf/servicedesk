@@ -83,7 +83,7 @@ CNCF Projects may freely select their own tools, produce their own documentation
 * [Scarf](https://scarf.sh) for advanced analytics for container & artifact distribution, package installation, and web traffic to source documentation 
 * [Peritus.ai](https://peritus.ai/) for Machine Learning analytics and self-service for developer communities
 
-CNCF staff is familiar with, and can help projects with, hosting on AWS, GCP, and Azure clouds. In some cases, we have credits available for free hosting. We also have our own [Community Infrastructure Lab](https://www.cncf.io/community/infrastructure-lab/)
+CNCF staff is familiar with, and can help projects with, hosting on AWS, GCP, and Azure clouds. In some cases, we have [credits available](https://www.cncf.io/google-cloud-recommits-3m-to-kubernetes/) for free hosting. We also have our own [Community Infrastructure Lab](https://www.cncf.io/community/infrastructure-lab/).
 
 ## Technical Documentation ##
 CNCF invests significant capital per year to improve project documentation. This includes the following services:
@@ -160,7 +160,7 @@ Projects and project maintainers can participate in CNCF events by:
 ### Marketing Services and Programs ###
 CNCF provides a full portfolio of marketing services and programs to support community and ecosystem engagement for CNCF projects. This includes:
 
-* [CNCF Webinar](https://github.com/cncf/foundation/blob/master/webinar-guidelines.md): Graduated and incubating projects can hold a webinar twice a year. These webinars can communicate release launch details or provide a project update. The exception is Kubernetes who holds a webinar each quarter approximately 30 days after the release.
+* [CNCF Online Programs](https://github.com/cncf/foundation/blob/master/online-programs-guidelines.md): Graduated and incubating projects can participate in Online Programs like webinars, videos, and livestream. They can communicate release launch details or provide a project update. The exception is Kubernetes, which holds a webinar approximately 30 days after a release.
 * [CNCF Blog](https://github.com/cncf/foundation/blob/master/blog-guidelines.md) and [Kubernetes.io Blog](https://kubernetes.io/docs/contribute/new-content/blogs-case-studies/): Graduated and incubating projects can submit blog posts. Share technical content and how-to’s, stories about cloud native and project deployments, and use cases and success stories. Blog posts should not be vendor pitches. They must contain content that applies broadly to the Kubernetes and cloud native community. The Kubernetes blog receives over 1.5M visits a week. 
 * [Case Studies](https://github.com/cncf/foundation/blob/master/case-study-guidelines.md): End user case studies help elevate the technical conversations to business objectives and challenges. This program features use cases and the impact CNCF project and cloud native technologies are having on end users’ businesses. The case studies build narratives around specific metrics that reflect the positive as a resource for companies considering adopting cloud native technologies.
 * [Newsletter](https://lists.cncf.io/g/newsletter/topic/cncf_newsletter_february/71376258?p=,,,20,0,0,0::recentpostdate%2Fsticky,,,20,2,0,71376258): The CNCF newsletter is published monthly. Project updates are a regular feature in the newsletter.
