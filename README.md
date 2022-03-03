@@ -19,7 +19,8 @@ CNCF’s services fall in the following general categories:
 * Tools
 * Technical Documentation
 * Continuous Integration
-* Certification and Training Services
+* Certification and 
+Services
 * End User Community
 * Internationalization
 * Marketing (event management, marketing services and programs, marketing communications)
@@ -112,6 +113,7 @@ CNCF, along with the Linux Foundation, has made a major investment in implementi
 * [Certified Kubernetes Administrator (CKA)](https://www.cncf.io/certification/cka/) exam 
 * [CKAD](https://www.cncf.io/certification/ckad/): Kubernetes for Developers
 * [Monitoring Systems and Services with Prometheus](https://training.linuxfoundation.org/training/monitoring-systems-and-services-with-prometheus-lfs241/)
+* [Kubernetes and Cloud Native Associate (KCNA)](https://www.cncf.io/certification/kcna/)
 
 ## End User Community ##
 CNCF’s [End User Community](https://www.cncf.io/people/end-user-community/) includes over 140 top companies and startups that depend on cloud native technologies and are committed to collaborative infrastructure development. The End User Community is an active participant in key technology decisions by CNCF-hosted projects with leadership positions on the TOC and contributions to many CNCF projects. 
