@@ -256,6 +256,17 @@ CNCF doesn't set a set amount of budget for each project and will work with you 
  
 GitHub has also recently improved the ability to do security disclosures and generate CVEs, we recommend projects use this: https://help.github.com/en/github/managing-security-vulnerabilities/about-github-security-advisories#cve-identification-numbers - As a backup, you can submit a CVE use the MITRE CVE submission form: https://cve.mitre.org/cve/request_id.html (The CNCF is currently not an CNA).
 
+### How do I create a security disclosure process, e.g., SECURITY.MD file?
+
+It is recommend CNCF projects create a security disclosure process to make it easier for adopters to report issues.
+
+There is no one set way, you can look at other CNCF projects for examples:
+https://github.com/envoyproxy/envoy/blob/main/SECURITY.md
+https://github.com/etcd-io/etcd/blob/main/security/README.md
+
+Also Google has put together a set of templates that may be useful:
+https://github.com/google/oss-vulnerability-guide
+
 ### How do I share credentials, passwords or other confidential information?
 
 CNCF doesn't enforce the projects to use any specific tool for sharing credentials, passwords or other confidential information, however we recommend using [Keybase](https://keybase.io/) or applying for 1Password's [free open source plan](https://github.com/1Password/1password-teams-open-source).
