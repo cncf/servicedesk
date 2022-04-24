@@ -261,7 +261,7 @@ CNCF doesn't enforce the projects to use any specific tool for sharing credentia
 
 ### How can I use the computing infrastructure by CNCF?
 
-CNCF prefers projects evaluated using our [Community Cluster](https://github.com/cncf/cluster) first. We have partnered with the various providers that offer discounted or free services for the CNCF projects. For example, the CNCF projects may use the credits, [offered by Amazon Web Services for CNCF](https://www.cncf.io/announcement/2019/11/19/cloud-native-computing-foundation-receives-200000-in-credits-from-amazon-web-services-aws/) for the upstream testing, CI/CD and other purposes. See the [Tools](#tools) sections on this page for more details.
+CNCF prefers projects evaluate using our [Community Cluster](https://github.com/cncf/cluster) first. We have partnered with the various providers that offer discounted or free services for the CNCF projects. For example, the CNCF projects may use the credits, [offered by Amazon Web Services for CNCF](https://www.cncf.io/announcement/2019/11/19/cloud-native-computing-foundation-receives-200000-in-credits-from-amazon-web-services-aws/) for the upstream testing, CI/CD and other purposes. See the [Tools](#tools) sections on this page for more details.
 
 To benefit from one of these offers, please submit the Service Desk ticket with the detailed description of the request, including the purpose, list of the desired services and a rough cost.
 
