@@ -295,6 +295,15 @@ CNCF has reached an agreement with Docker that these limits can be eliminated fo
 
 NOTE: To have you application processed correctly by Docker, please explicitly mention that your project is hosted by CNCF. Also, please note that the approval process may take up to a few weeks.
 
+### How do I get github project and team management to my project?
+
+Each CNCF project can decide on its own how to management github invites and teams, some are small enough and just do it manually, some use automated systems like below:
+
+https://github.com/kubernetes/org
+https://github.com/cilium/team-manager
+https://github.com/apps/settings
+https://github.com/github/safe-settings
+
 ### My builds are slow, I would like to have expanded capacity for GitHub Actions, what can I do?
 
 The CNCF has a special partnership with GitHub, please file a [Service Desk](https://cncfservicedesk.atlassian.net/servicedesk/customer/portal/1/user/login) ticket and we can expand the amount of hosted runner minutes. Note, some projects have also expanded their build capacity by using the CNCF Cluster via [GHA External Runners](https://docs.github.com/en/actions/hosting-your-own-runners/about-self-hosted-runners)
@@ -314,7 +323,6 @@ Email info@cncf.io and one will be created for you.
 ### I am not happy with the level of service from CNCF staff, what can I do to escalate?
 
 If you aren't happy with the service provided by CNCF staff or with a resolution of an issue, you have a couple of options. If it's a technical matter, you can appeal to the TOC https://github.com/cncf/toc and if it's a budget related matter you can appeal to the CNCF [Developer Representatives](https://github.com/cncfdevreps/issues) on the GB.
-
 
 ### Code analysis and fuzzing
 Fuzzing is a technique for dynamically testing applications to find reliability and security bugs. Several CNCF projects use fuzz testing to analyse their code such as [Envoy](https://github.com/envoyproxy/envoy/blob/main/docs/security/audit_fuzzer_adalogics_2021.pdf), [Fluent-bit](https://github.com/fluent/fluent-bit/blob/master/doc-reports/cncf-fuzzing-audit.pdf), [Vitess](https://github.com/vitessio/vitess/blob/main/doc/VIT-02-report-fuzzing-audit.pdf), [Linkerd2-proxy](https://github.com/linkerd/linkerd2-proxy/blob/main/docs/reports/linkerd2-proxy-fuzzing-report.pdf), [Prometheus](https://github.com/prometheus/prometheus/blob/main/promql/fuzz.go), [Kubernetes](https://github.com/kubernetes/kubernetes/tree/master/test/fuzz) and more. The integration of fuzzing is often combined with [OSS-Fuzz](https://github.com/google/oss-fuzz) (all of the just-mentioned projects are integrated into OSS-Fuzz), which is a free online service that will run your fuzzer continuously. We highly recommend integrating fuzzing into your project, but the benefits of fuzzing varies from project to project.
