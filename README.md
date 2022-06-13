@@ -97,7 +97,7 @@ CNCF invests significant capital per year to improve project documentation. This
 * Website hosting and setup
 * [Office hours](https://github.com/cncf/techdocs#office-hours) for face-to-face time with writers
 * Technical writers and contractors for specific projects
-See [Documentation services for projects](https://github.com/cncf/techdocs/blob/main/services.md) for a full description of what the technical documentation team offers.
+See [Documentation services for projects](https://github.com/cncf/techdocs/blob/main/docs/services.md) for a full description of what the technical documentation team offers.
 
 Documentation Examples
 * [Kubernetes](https://kubernetes.io) (i18n support and case studies)
