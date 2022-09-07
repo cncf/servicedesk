@@ -85,7 +85,7 @@ CNCF Projects may freely select their own tools, produce their own documentation
 * [Scarf](https://scarf.sh) for advanced analytics for container & artifact distribution, package installation, and web traffic to source documentation 
 * [Peritus.ai](https://peritus.ai/) for Machine Learning analytics and self-service for developer communities
 * [Curiefense](https://curiefense.io) for application layer protection (web/api) - WAF, DDoS, Rate limiting, and more.
-
+* [C2 Password](https://c2.synology.com/password/overview) for password and credential management
 
 
 CNCF staff is familiar with, and can help projects with, hosting on AWS, GCP, and Azure clouds. In some cases, we have [credits available](https://www.cncf.io/google-cloud-recommits-3m-to-kubernetes/) for free hosting. We also have our own [Community Infrastructure Lab](https://www.cncf.io/community/infrastructure-lab/).
