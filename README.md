@@ -76,7 +76,7 @@ CNCF Projects may freely select their own tools, produce their own documentation
 * [Slack](https://slack.com) for communication for all projects in the Cloud Native Computing Foundation Slack
 * [FOSSA](https://fossa.io) for license and security scanning
 * [Snyk](https://snyk.io) for container image scanning
-* [Lift](https://www.sonatype.com/products/sonatype-lift) for cloud-native and collaborative code analysis platform built for developers
+* [Lift](https://www.sonatype.com/products/sonatype-lift/) for cloud-native and collaborative code analysis platform built for developers
 * [HackerOne](https://www.hackerone.com) for bug bounties
 * [Zapier](https://zapier.com) for task and workflow automation
 * [Docker Hub](https://hub.docker.com/) for container images storing and managing
