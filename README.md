@@ -35,7 +35,7 @@ A neutral home for an open source project increases the willingness of developer
 For projects accepted into CNCF, the existing maintainers (or committers) still control the project. We help projects create a well-documented, neutral governance process. Any project that is added to CNCF must have ownership of its trademark and logo assets transferred to the Linux Foundation. For the full list of requirements, see [IP Policy](https://github.com/cncf/foundation/blob/master/charter.md#11-ip-policy).
 
 ## Design and Aesthetics ##
-CNCF offers graphic design resources for all projects, provided primarily by our in-house design team. When new projects enter the foundation, they receive a new logo, website refresh if they wish, or an enhancement of their existing aesthetic. For example, see the [CloudEvents](https://cloudevents.io) or CNCF [SIG Security](https://github.com/cncf/sig-security) logo. If there is something creative you desire, please don’t hesitate to reach out!
+CNCF offers graphic design resources for all projects, provided primarily by our in-house design team. When new projects enter the foundation, they receive a new logo, website refresh if they wish, or an enhancement of their existing aesthetic. For example, see the [CloudEvents](https://cloudevents.io) or CNCF [TAG-Security](https://github.com/cncf/tag-security) logo. If there is something creative you desire, please don’t hesitate to reach out!
 
 All project logos and color schemes are readily available via the [CNCF artwork github](https://github.com/cncf/artwork).
 
