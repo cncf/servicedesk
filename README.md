@@ -200,13 +200,13 @@ Projects moving to Graduation level receive:
 * Embargoed pitch of the release and top features to the media. Requests for interviews go to the project team.
 ( Tweet on announcement day, including social card
 
-### Incubating ###
+#### Incubating ####
 Projects at the Incubation level receive:
 * Blog post announcement on cncf.io written by CNCF marketing with assistance from the project team.
 * Embargoed pitch of the announcement and top features to the media. Requests for interviews go to the project team.
 * Tweet on announcement day, including social card 
 
-### Sandbox ###
+#### Sandbox ####
 Projects coming in as Sandbox
 * An announcement to the TOC mailing list on the day they are included into the Sandbox.
 * If the media contacts CNCF regarding the news, CNCF will make an introduction directly to the project.
