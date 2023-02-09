@@ -48,7 +48,7 @@ CNCF staff is available to assist and guide your project. Below are some of the 
 * Project governance creation and advice
 * Facilitating community meetings with support for online participation 
 * Administrative support for communication and project processes
-* [Security audits](https://github.com/cncf/toc/blob/master/docs/projects.md#project-audits) by independent third parties (e.g., Kubernetes security audit)
+* [Security audits](https://github.com/cncf/toc/blob/master/docs/projects.md#project-security-audits) by independent third parties (e.g., Kubernetes security audit)
 * Distributed systems safety research via independent third parties (e.g. https://jepsen.io/)
 * Biweekly or monthly check in meetings with CNCF Staff as requested
 * Project activity tracking and contribution reporting via https://devstats.cncf.io
