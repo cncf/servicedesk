@@ -242,7 +242,7 @@ To contribute your project to CNCF or discuss how CNCF can help your project, em
 
 If you’re a CNCF project committer/maintainer, all you have to do is visit [https://servicedesk.cncf.io](https://servicedesk.cncf.io/) to request support.
 
-All CNCF maintainers are listed [here](https://docs.google.com/spreadsheets/d/1Pr8cyp8RLrNGx9WBAgQvBzUUmqyOv69R7QAFKhacJEM/edit#gid=262035321).
+All CNCF maintainers are listed [here](http://maintainers.cncf.io/).
 
 ### What happens if I want to use a tool or service not listed here?
 
