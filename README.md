@@ -258,7 +258,7 @@ CNCF doesn't set a set amount of budget for each project and will work with you 
 
 ### How do I file a security CVE as a project?
  
-GitHub has also recently improved the ability to do security disclosures and generate CVEs, we recommend projects use this: https://help.github.com/en/github/managing-security-vulnerabilities/about-github-security-advisories#cve-identification-numbers - As a backup, you can submit a CVE use the MITRE CVE submission form: https://cve.mitre.org/cve/request_id.html (The CNCF is currently not an CNA).
+GitHub has also recently improved the ability to do security disclosures and generate CVEs, we recommend projects use this: https://help.github.com/en/github/managing-security-vulnerabilities/about-github-security-advisories#cve-identification-numbers - As a backup, you can submit a CVE using the MITRE CVE submission form: https://cve.mitre.org/cve/request_id.html (The CNCF is currently not an CNA).
 
 ### How do I create a security disclosure process, e.g., SECURITY.MD file?
 
@@ -283,7 +283,7 @@ To benefit from one of these offers, please submit the Service Desk ticket with 
 
 Code being run must be 100 percent open source and must not include any sensitive data.
 
-Please note that available computing resources are limited so we may ask you to reduce your usage when there is high demand for the available credits. Specifically, please consider shutting down the unused computing resources, use automation to terminate the bare metal/virtual machines if they are not intended to be used 24/7, use spot instances if applicable etc. Please estimate your budget to use no more that $3000/month in AWS credits. If you expect higher resources usage on the regular basis, please consider using the [CNCF Cluster](https://github.com/CNCF/cluster) instead.
+Please note that available computing resources are limited so we may ask you to reduce your usage when there is high demand for the available credits. Specifically, please consider shutting down the unused computing resources, use automation to terminate the bare metal/virtual machines if they are not intended to be used 24/7, use spot instances if applicable etc. Please estimate your budget to use no more than $3000/month USD in AWS credits. If you expect higher resource usage on a regular basis, please consider using the [CNCF Cluster](https://github.com/CNCF/cluster) instead.
 
 CNCF expects fair usage of the allocated resources and credits, and reserves the right to terminate any allocated infrastructure resources and revoke the access to them in the case of violation of these rules.
 
@@ -293,7 +293,7 @@ In 2020, Docker announced the changes to [image retention](https://www.docker.co
 
 CNCF has reached an agreement with Docker that these limits can be eliminated for the CNCF projects - if your project is affected by these changes, please consider applying to the [Docker Expanded Support for Open Source Software Projects](https://www.docker.com/blog/expanded-support-for-open-source-software-projects/) program via the [form](https://www.docker.com/community/open-source/application/).
 
-NOTE: To have you application processed correctly by Docker, please explicitly mention that your project is hosted by CNCF. Also, please note that the approval process may take up to a few weeks.
+NOTE: To have your application processed correctly by Docker, please explicitly mention that your project is hosted by CNCF. Also, please note that the approval process may take up to a few weeks.
 
 ### How do I get github project and team management to my project?
 
@@ -316,7 +316,7 @@ Head to the [Service Desk](https://cncfservicedesk.atlassian.net/servicedesk/cus
 
 The CNCF ServiceDesk policy for Kubernetes community is defined at [Kubernetes Steering repo](https://github.com/kubernetes/steering/blob/master/service-desk.md).
 
-### I changed my email and lost my servicedesk access, what can I do to get it back?
+### I changed my email and lost my servicedesk access. What can I do to get it back?
 
 Email info@cncf.io and one will be created for you.
 
@@ -333,7 +333,7 @@ To give an understanding of the success fuzzing has achieved in various projects
 - Envoy has invested significantly in fuzzing and OSS-Fuzz has reported more than [700](https://bugs.chromium.org/p/oss-fuzz/issues/list?q=proj%3Denvoy%20Type%3DBug&can=1) bugs as well as [81](https://bugs.chromium.org/p/oss-fuzz/issues/list?q=proj%3Denvoy%20Type%3DBug-Security&can=1) security relevant bugs
 - Fluent-bit has been fuzzed for slightly more than a year, and OSS-Fuzz has reported more than [100](https://bugs.chromium.org/p/oss-fuzz/issues/list?q=proj%3Dfluent-bit%20Type%3DBug&can=1) reliability issues and more than [50](https://bugs.chromium.org/p/oss-fuzz/issues/list?q=proj%3Dfluent-bit%20Type%3DBug-Security&can=1) security issues.
 
-For an example where fuzzing was determined to have limited effects consider [Cloud custodian](https://github.com/cloud-custodian/cloud-custodian). Cloud custodian is a project written in Python and is very horisontal in its architecture in that it does not have deep code complexities. This is an example where fuzzing will have limited results as discussed in detail in a [PR](https://github.com/cloud-custodian/cloud-custodian/pull/6832) on the Cloud Custodian repository. However, Cloud Custodian still benefited from fuzzing finding a bug in the code of Cloud Custodian where fuzzing could be applied, but, in comparison to the other projects mentioned above Cloud Custodian is not integrated into OSS-Fuzz.
+For an example where fuzzing was determined to have limited effects consider [Cloud custodian](https://github.com/cloud-custodian/cloud-custodian). Cloud custodian is a project written in Python and is very horizontal in its architecture in that it does not have deep code complexities. This is an example where fuzzing will have limited results as discussed in detail in a [PR](https://github.com/cloud-custodian/cloud-custodian/pull/6832) on the Cloud Custodian repository. However, Cloud Custodian still benefited from fuzzing finding a bug in the code of Cloud Custodian where fuzzing could be applied, but, in comparison to the other projects mentioned above Cloud Custodian is not integrated into OSS-Fuzz.
 
 The following list indicates some common software properties that means your code is likely to benefit from fuzzing
 - High code complexity
@@ -341,4 +341,4 @@ The following list indicates some common software properties that means your cod
 - Accepts untrusted input
 - If a reliability or reliability issue occur then it can have significant consequences for systems
 - Is used as a library by other applications
-- Projects in memory unsafe languages should have a high prority for being fuzzed (but fuzzing is not exclusive to memory unsafe languages)
+- Projects in memory unsafe languages should have a high priority for being fuzzed (but fuzzing is not exclusive to memory unsafe languages)
