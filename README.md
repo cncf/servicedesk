@@ -8,7 +8,7 @@ CNCF hosts graduated, incubating, and sandbox projects. While we offer a shared 
 
 Finally, this list isn’t meant to be an exhaustive list of services offered by the foundation. There may be things your project needs help with that isn’t listed here and it’s completely OK to reach out to staff via the CNCF ServiceDesk and ask for help. 
 
-To improve access to CNCF services, we are implementing a service desk to serve as a single point access for all CNCF services. We’re modeling this on the 3-1-1 service that Mayor Bloomberg [rolled out](https://www1.nyc.gov/office-of-the-mayor/news/203-10/mayor-bloomberg-answers-100-millionth-call-311) in New York City to provide single point of access to all municipal services. Project maintainers that are used to interacting with CNCF staff members directly by email or Slack are welcome to continue to do so, and it will be that staff member’s responsibility to log the request in the CNCF ServiceDesk.
+To improve access to CNCF services, we are implementing a service desk to serve as a single point access for all CNCF services. We’re modeling this on the 3-1-1 service that Mayor Bloomberg [rolled out](https://web.archive.org/web/20200819233226/https://www1.nyc.gov/office-of-the-mayor/news/203-10/mayor-bloomberg-answers-100-millionth-call-311) in New York City to provide single point of access to all municipal services. Project maintainers that are used to interacting with CNCF staff members directly by email or Slack are welcome to continue to do so, and it will be that staff member’s responsibility to log the request in the CNCF ServiceDesk.
 
 CNCF’s services fall in the following general categories:
 
