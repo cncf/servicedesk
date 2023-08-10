@@ -1,6 +1,6 @@
-# CNCF ServiceDesk
+# CNCF Service Desk
 
-- [CNCF ServiceDesk](#cncf-servicedesk)
+- CNCF Service Desk
   - [Foundation](#foundation)
   - [Design and Aesthetics](#design-and-aesthetics)
   - [Program Management](#program-management)
@@ -28,16 +28,16 @@
   - [FAQ](#faq)
     - [How do I file a ticket with the Service Desk?](#how-do-i-file-a-ticket-with-the-service-desk)
     - [What happens if I want to use a tool or service not listed here?](#what-happens-if-i-want-to-use-a-tool-or-service-not-listed-here)
-    - [Is there an SLA for service desk issues?](#is-there-an-sla-for-service-desk-issues)
+    - [Is there an SLA for Service Desk issues?](#is-there-an-sla-for-service-desk-issues)
     - [How much budget is available for projects?](#how-much-budget-is-available-for-projects)
     - [How do I file a security CVE as a project?](#how-do-i-file-a-security-cve-as-a-project)
     - [How do I share credentials, passwords or other confidential information?](#how-do-i-share-credentials-passwords-or-other-confidential-information)
     - [How can I use the computing infrastructure by CNCF?](#how-can-i-use-the-computing-infrastructure-by-cncf)
     - [My project is affected by the Docker Hub rate limits policy changes, what can I do?](#my-project-is-affected-by-the-docker-hub-rate-limits-policy-changes-what-can-i-do)
     - [My builds are slow, I would like to have expanded capacity for GitHub Actions, what can I do?](#my-builds-are-slow-i-would-like-to-have-expanded-capacity-for-github-actions-what-can-i-do)
-    - [I don't have a ServiceDesk account](#i-dont-have-a-servicedesk-account)
-      - [I am a Kubernetes SIG chair and I don't have a ServiceDesk account](#i-am-a-kubernetes-sig-chair-and-i-dont-have-a-servicedesk-account)
-    - [I changed my email and lost my servicedesk access, what can I do to get it back?](#i-changed-my-email-and-lost-my-servicedesk-access-what-can-i-do-to-get-it-back)
+    - [I don't have a Service Desk account](#i-dont-have-a-service-desk-account)
+      - [I am a Kubernetes SIG chair and I don't have a Service Desk account](#i-am-a-kubernetes-sig-chair-and-i-dont-have-a-service-desk-account)
+    - [I changed my email and lost my Service Desk access, what can I do to get it back?](#i-changed-my-email-and-lost-my-service-desk-access-what-can-i-do-to-get-it-back)
     - [I am not happy with the level of service from CNCF staff, what can I do to escalate?](#i-am-not-happy-with-the-level-of-service-from-cncf-staff-what-can-i-do-to-escalate)
     - [Code analysis and fuzzing](#code-analysis-and-fuzzing)
 
@@ -47,9 +47,9 @@ These services are offered as part of community stability, but do not replace de
 
 CNCF hosts graduated, incubating, and sandbox projects. While we offer a shared set of services for all of our projects, we don’t provide substantial marketing services for sandbox projects as they are meant to be early stage projects that need a lightweight neutral home to grow naturally. Sandbox projects are prioritized lower for project services versus their incubating and graduated project peers.
 
-Finally, this list isn’t meant to be an exhaustive list of services offered by the foundation. There may be things your project needs help with that isn’t listed here and it’s completely OK to reach out to staff via the CNCF ServiceDesk and ask for help.
+Finally, this list isn’t meant to be an exhaustive list of services offered by the foundation. There may be things your project needs help with that isn’t listed here and it’s completely OK to reach out to staff via the CNCF Service Desk and ask for help.
 
-To improve access to CNCF services, we are implementing a service desk to serve as a single point access for all CNCF services. We’re modeling this on the 3-1-1 service that Mayor Bloomberg [rolled out](https://web.archive.org/web/20200819233226/https://www1.nyc.gov/office-of-the-mayor/news/203-10/mayor-bloomberg-answers-100-millionth-call-311) in New York City to provide single point of access to all municipal services. Project maintainers that are used to interacting with CNCF staff members directly by email or Slack are welcome to continue to do so, and it will be that staff member’s responsibility to log the request in the CNCF ServiceDesk.
+To improve access to CNCF services, we have implemented a Service Desk to serve as a single point access for all CNCF services. We’re modeling this on the 3-1-1 service that Mayor Bloomberg [rolled out](https://web.archive.org/web/20200819233226/https://www1.nyc.gov/office-of-the-mayor/news/203-10/mayor-bloomberg-answers-100-millionth-call-311) in New York City to provide single point of access to all municipal services. Project maintainers that are used to interacting with CNCF staff members directly by email or Slack are welcome to continue to do so, and it will be that staff member’s responsibility to log the request in the CNCF Service Desk.
 
 CNCF’s services fall in the following general categories:
 
@@ -314,7 +314,7 @@ All CNCF maintainers are listed [here](http://maintainers.cncf.io/).
 
 Projects are welcome to use their own tools in CNCF, we are a strong supporter of choice and flexibility. If you're interested in using a new tool and want CNCF to officially support it, please file a ticket and we will see what we can do to help!
 
-### Is there an SLA for service desk issues?
+### Is there an SLA for Service Desk issues?
 
 Yes, you should receive a response within 48 hours.
 
@@ -378,11 +378,11 @@ The CNCF has a special partnership with GitHub, please file a [Service Desk](htt
 
 Head to the [Service Desk](https://cncfservicedesk.atlassian.net/servicedesk/customer/portal/1/user/login) web site and try to login, if you can't find an account, email <info@cncf.io> and one will be created for you.
 
-#### I am a Kubernetes SIG chair and I don't have a ServiceDesk account
+#### I am a Kubernetes SIG chair and I don't have a Service Desk account
 
 The CNCF ServiceDesk policy for Kubernetes community is defined at [Kubernetes Steering repo](https://github.com/kubernetes/steering/blob/master/service-desk.md).
 
-### I changed my email and lost my servicedesk access. What can I do to get it back?
+### I changed my email and lost my Service Desk access. What can I do to get it back?
 
 Email <info@cncf.io> and one will be created for you.
 
