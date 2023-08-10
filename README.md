@@ -56,7 +56,7 @@ We offer CNCF projects and maintainers help in these areas:
 
 ## Foundation
 
-A neutral home for an open source project increases the willingness of developers from enterprise software companies, start-ups, and independent developers to collaborate, contribute, and become committers. The CNCF's [Technical Oversight Committee](https://www.cncf.io/people/technical-oversight-committee/) is the [technical governing body](https://github.com/cncf/toc), guided by [documented principles](https://github.com/cncf/toc/blob/master/PRINCIPLES.md), and admits and oversees all projects. Being accepted into the CNCF by the TOC is an independent signal of the quality of your project.
+A neutral home for an open source project increases the willingness of developers from enterprise software companies, start-ups, and independent developers to collaborate, contribute, and become committers. The CNCF's [Technical Oversight Committee (TOC)](https://www.cncf.io/people/technical-oversight-committee/) is the [technical governing body](https://github.com/cncf/toc#cncf-technical-oversight-committee-toc), guided by [documented principles](https://github.com/cncf/toc/blob/master/PRINCIPLES.md), and admits and oversees all projects. Being accepted into the CNCF by the TOC is an independent signal of the quality of your project.
 
 For projects accepted into the CNCF, the existing maintainers (or committers) still control the project. We help projects create a well-documented, neutral governance process. Any project that is added to CNCF must have ownership of its trademark and logo assets transferred to The Linux Foundation. For the full list of requirements, see [IP Policy](https://github.com/cncf/foundation/blob/master/charter.md#11-ip-policy).
 
@@ -72,14 +72,14 @@ CNCF, our parent organization [The Linux Foundation](https://www.linuxfoundation
 
 CNCF staff is available to assist and guide your project. Below are some of the activities:
 
-- Collaboration between maintainers and [LF fellows](https://www.linuxfoundation.org/about/linux-foundation-fellows/) and CNCF sister projects in the LF to support knowledge sharing
+- Collaboration between maintainers and [LF Fellows](https://www.linuxfoundation.org/about/linux-foundation-fellows/) and CNCF sister projects in the LF to support knowledge sharing
 - Project governance creation and advice
 - Facilitating community meetings with support for online participation
 - Administrative support for communication and project processes
 - [Security audits](https://github.com/cncf/toc/blob/main/docs/projects.md#project-security-audits) by independent third parties (e.g., Kubernetes security audit)
 - Distributed systems safety research via independent third parties (e.g. <https://jepsen.io/>)
 - Biweekly or monthly check in meetings with CNCF Staff as requested
-- Project activity tracking and contribution reporting via <https://devstats.cncf.io>
+- Project activity tracking and contribution reporting via [DevStats](https://devstats.cncf.io)
 
 ## Legal Services
 
@@ -110,7 +110,7 @@ CNCF Projects may freely select their own tools, produce their own documentation
 - [HackerOne](https://www.hackerone.com) for bug bounties
 - [Zapier](https://zapier.com) for task and workflow automation
 - [Docker Hub](https://hub.docker.com/) for storing and managing container images
-- [LFX Security](https://lfx.linuxfoundation.org/tools/security/) for source code security scanning and license compliance [white-labeled Snyk]
+- [LFX Security](https://lfx.linuxfoundation.org/tools/security/) for source code security scanning and license compliance (white-labeled Snyk)
 - [Credly](https://info.credly.com) Custom badges powered by Credly (for example [Linkerd Hero](https://www.youracclaim.com/badges/538d249f-ec6d-4c5c-93f4-44d7c5596b36/twitter) program)
 - [Scarf](https://scarf.sh) for advanced analytics for container & artifact distribution, package installation, and web traffic to source documentation
 - [Peritus.ai](https://peritus.ai/) for Machine Learning analytics and self-service for developer communities
@@ -127,7 +127,7 @@ CNCF significant investments per year to improve project documentation. This inc
 - [Office hours](https://github.com/cncf/techdocs#office-hours) for face-to-face time with writers
 - Technical writers and contractors for specific projects
 
-See [Documentation services for projects](https://github.com/cncf/techdocs/blob/main/docs/services.md) for a full description of what the technical documentation team offers.
+See [documentation services for projects](https://github.com/cncf/techdocs/blob/main/docs/services.md) for a full description of what the technical documentation team offers.
 
 Documentation examples include:
 
@@ -150,7 +150,7 @@ Examples of training we've already developed include:
 
 - Free Introduction to [Kubernetes course on edX](https://www.edx.org/course/introduction-to-kubernetes) MOOC
 - [Certified Kubernetes Administrator (CKA)](https://www.cncf.io/certification/cka/) exam
-- [CKAD](https://www.cncf.io/certification/ckad/): Kubernetes for Developers
+- [Certified Kubernetes Application Developer (CKAD)](https://www.cncf.io/certification/ckad/)
 - [Monitoring Systems and Services with Prometheus](https://training.linuxfoundation.org/training/monitoring-systems-and-services-with-prometheus-lfs241/)
 - [Kubernetes and Cloud Native Associate (KCNA)](https://www.cncf.io/certification/kcna/)
 
@@ -158,9 +158,9 @@ Examples of training we've already developed include:
 
 The CNCF's [End User Community](https://www.cncf.io/people/end-user-community/) includes over 140 top companies and startups that depend on cloud native technologies and are committed to collaborative infrastructure development. The End User Community is an active participant in key technology decisions by CNCF-hosted projects with leadership positions on the TOC and contributions to many CNCF projects.
 
-For the definition of an end user see the [TOC FAQ](https://github.com/cncf/toc/blob/main/FAQ.md#what-is-the-definition-of-an-adopter).
+For the definition of an end user see the [TOC FAQ](https://github.com/cncf/toc/blob/main/FAQ.md#what-is-the-definition-of-an-adopter) on adopters.
 
-CNCF end users are telling their stories to help elevate the technical conversations to business objectives and challenges. CNCF projects are featured in these use cases and the impact cloud native projects are having on their business. You can explore case studies by project, such as [Prometheus](https://www.cncf.io/case-studies/) or [Envoy](https://www.cncf.io/case-studies/).
+CNCF end users are telling their stories to help elevate the technical conversations to business objectives and challenges. CNCF projects are featured in these use cases and the impact cloud native projects are having on their business. You can explore [case studies by project](https://www.cncf.io/case-studies/), such as Prometheus or Envoy.
 
 ## Internationalization
 
@@ -168,7 +168,7 @@ The CNCF has professional staff located in Asia Pacific to assist projects with 
 
 - Assistance for projects presenting at meetups and events.
 - Simultaneous live translations in both Chinese and English for our flagship KubeCon + CloudNativeCon China.
-- Translation services for projects that wish to have blog posts translated into other languages, see [Falco](https://falco.org/jp/) as an example.
+- Translation services for projects that wish to have blog posts translated into other languages, see [Falco](https://falco.org/ja/) as an example.
 
 ## Marketing
 
@@ -202,7 +202,7 @@ Projects and project maintainers can participate in CNCF events by:
 - CNCF sponsors many [third-party events](https://www.cncf.io/events-well-be-at/) each year, both in-person and virtual. Often with a booth, we encourage project maintainers to join CNCF in our participation to meet the event attendees and talk about your project. For virtual events, we advocate for presentations by project maintainers.
 - CNCF supports numerous [Linux Foundation events](https://events.linuxfoundation.org/) such as Open Source Summit and Open Networking Summit. We love to have project maintainers join CNCF at these events to educate the broader ecosystem on open source cloud native projects.
 - For in-person events, project contributors are welcome to use our booth as a “home base” for meeting colleagues.
-- Connect to our worldwide network of [CNCF meetup groups](https://www.meetup.com/pro/cncf) and [ambassadors](https://www.cncf.io/people/ambassadors/) to raise awareness of your project.
+- Connect to our worldwide network of [CNCF meetup groups](https://www.meetup.com/topics/cncf/) and [ambassadors](https://www.cncf.io/people/ambassadors/) to raise awareness of your project.
 - Travel funding is available for your non-corporate-backed developers and to increase the attendance of women and other underrepresented minorities.
 - At events, we promote all CNCF projects and help connect users and developers to our projects.
 
@@ -216,7 +216,7 @@ CNCF provides a full portfolio of marketing services and programs to support com
 - [Newsletter](https://lists.cncf.io/g/newsletter/topic/cncf_newsletter_february/71376258?p=,,,20,0,0,0::recentpostdate%2Fsticky,,,20,2,0,71376258): The CNCF newsletter is published monthly. Project updates are a regular feature in the newsletter.
 - CNCF manages the blog editorial calendar for balanced content shared with the community. We also provide writing, editing, and funding freelancers to develop content.
 - Project media velocity reports: Monthly, CNCF pulls press mentions and share of voice data for all projects including mentions in social media and key messaging.
-- [Fashion a Phippy](https://github.com/foundation/blob/master/phippy-guidelines.md): Graduated projects can donate a character to the [Phippy and Friends](https://www.cncf.io/phippy/) program, to help others better understand the concepts of cloud native computing, and increase the marketing and engagement opportunities for their project.
+- [Fashion a Phippy](https://github.com/cncf/foundation/blob/main/phippy-guidelines.md): Graduated projects can donate a character to the [Phippy and Friends](https://www.cncf.io/phippy/) program, to help others better understand the concepts of cloud native computing, and increase the marketing and engagement opportunities for their project.
 
 ### Marketing Communications
 
@@ -287,16 +287,16 @@ Projects coming in as Sandbox
 
 ## Code analysis and fuzzing
 
-Fuzzing is a technique for dynamically testing applications to find reliability and security bugs. Several CNCF projects use fuzz testing to analyse their code such as [Envoy](https://github.com/envoyproxy/envoy/blob/main/docs/security/audit_fuzzer_adalogics_2021.pdf), [Fluent-bit](https://github.com/fluent/fluent-bit/blob/master/doc-reports/cncf-fuzzing-audit.pdf), [Vitess](https://github.com/vitessio/vitess/blob/main/doc/VIT-02-report-fuzzing-audit.pdf), [Linkerd2-proxy](https://github.com/linkerd/linkerd2-proxy/blob/main/docs/reports/linkerd2-proxy-fuzzing-report.pdf), [Prometheus](https://github.com/prometheus/prometheus/blob/main/promql/fuzz.go), [Kubernetes](https://github.com/kubernetes/kubernetes/tree/master/test/fuzz) and more. The integration of fuzzing is often combined with [OSS-Fuzz](https://github.com/google/oss-fuzz) (all of the just-mentioned projects are integrated into OSS-Fuzz), which is a free online service that will run your fuzzer continuously. We highly recommend integrating fuzzing into your project, but the benefits of fuzzing varies from project to project.
+Fuzzing is a technique for dynamically testing applications to find reliability and security bugs. Several CNCF projects use fuzz testing to analyse their code such as [Envoy](https://github.com/envoyproxy/envoy/blob/main/docs/security/audit_fuzzer_adalogics_2021.pdf), [Fluent-bit](https://github.com/fluent/fluent-bit/blob/master/doc-reports/cncf-fuzzing-audit.pdf), [Vitess](https://github.com/vitessio/vitess/blob/main/doc/VIT-02-report-fuzzing-audit.pdf), [Linkerd2-proxy](https://github.com/linkerd/linkerd2-proxy/blob/main/docs/reports/linkerd2-proxy-fuzzing-report.pdf), [Prometheus](https://github.com/prometheus/prometheus/blob/main/promql/fuzz.go), [Kubernetes](https://github.com/kubernetes/kubernetes/tree/master/test/fuzz), and more. The integration of fuzzing is often combined with [OSS-Fuzz](https://github.com/google/oss-fuzz) (all of the just-mentioned projects are integrated into OSS-Fuzz), which is a free online service that will run your fuzzer continuously. We highly recommend integrating fuzzing into your project, but the benefits of fuzzing varies from project to project.
 
 Fuzzing works best with projects that have high code complexity, e.g. parsers, decoders, etc. but can be used in many other projects. You can fuzz projects in many languages, including C/C++, Go, Rust, Python and Typescript (not yet supported by OSS-Fuzz), and the type of bug you will find depends on which language your project is written in.
 
 To give an understanding of the success fuzzing has achieved in various projects:
 
-- Envoy has invested significantly in fuzzing and OSS-Fuzz has reported more than [700](https://bugs.chromium.org/p/oss-fuzz/issues/list?q=proj%3Denvoy%20Type%3DBug&can=1) bugs as well as [81](https://bugs.chromium.org/p/oss-fuzz/issues/list?q=proj%3Denvoy%20Type%3DBug-Security&can=1) security relevant bugs
-- Fluent-bit has been fuzzed for slightly more than a year, and OSS-Fuzz has reported more than [100](https://bugs.chromium.org/p/oss-fuzz/issues/list?q=proj%3Dfluent-bit%20Type%3DBug&can=1) reliability issues and more than [50](https://bugs.chromium.org/p/oss-fuzz/issues/list?q=proj%3Dfluent-bit%20Type%3DBug-Security&can=1) security issues.
+- Envoy has invested significantly in fuzzing and OSS-Fuzz has reported more than [1000](https://bugs.chromium.org/p/oss-fuzz/issues/list?q=proj%3Denvoy%20Type%3DBug&can=1) bugs as well as [115](https://bugs.chromium.org/p/oss-fuzz/issues/list?q=proj%3Denvoy%20Type%3DBug-Security&can=1) security relevant bugs
+- Fluent-bit has been fuzzed for slightly more than a year, and OSS-Fuzz has reported more than [200](https://bugs.chromium.org/p/oss-fuzz/issues/list?q=proj%3Dfluent-bit%20Type%3DBug&can=1) reliability issues and more than [100](https://bugs.chromium.org/p/oss-fuzz/issues/list?q=proj%3Dfluent-bit%20Type%3DBug-Security&can=1) security issues.
 
-For an example where fuzzing was determined to have limited effects consider [Cloud custodian](https://github.com/cloud-custodian/cloud-custodian). Cloud custodian is a project written in Python and is very horizontal in its architecture in that it does not have deep code complexities. This is an example where fuzzing will have limited results as discussed in detail in a [PR](https://github.com/cloud-custodian/cloud-custodian/pull/6832) on the Cloud Custodian repository. However, Cloud Custodian still benefited from fuzzing finding a bug in the code of Cloud Custodian where fuzzing could be applied, but, in comparison to the other projects mentioned above Cloud Custodian is not integrated into OSS-Fuzz.
+For an example where fuzzing was determined to have limited effects consider [Cloud Custodian](https://github.com/cloud-custodian/cloud-custodian). Cloud Custodian is a project written in Python and is very horizontal in its architecture in that it does not have deep code complexities. This is an example where fuzzing will have limited results as discussed in detail in a [PR](https://github.com/cloud-custodian/cloud-custodian/pull/6832) on the Cloud Custodian repository. However, Cloud Custodian still benefited from fuzzing finding a bug in the code of Cloud Custodian where fuzzing could be applied, but, in comparison to the other projects mentioned above Cloud Custodian is not integrated into OSS-Fuzz.
 
 The following list indicates some common software properties that means your code is likely to benefit from fuzzing
 
@@ -311,13 +311,13 @@ The following list indicates some common software properties that means your cod
 
 This list isn't a comprehensive list of all services covered. Projects can, and do, request additional services through [CNCF Service Desk](https://cncfservicedesk.atlassian.net/servicedesk/customer/portal/1) and we work to get them the help they need.
 
-To contribute your project to CNCF or discuss how CNCF can help your project, email <info@cncf.io> and read the TOC repo <https://github.com/cncf/toc#projects>
+To contribute your project to CNCF or discuss how CNCF can help your project, email <info@cncf.io> and read the [TOC repo](https://github.com/cncf/toc#projects).
 
 ## FAQ
 
 ### How do I file a ticket with the Service Desk?
 
-If you're a CNCF project committer/maintainer, all you have to do is visit [https://servicedesk.cncf.io](https://servicedesk.cncf.io/) to request support.
+If you're a CNCF project committer/maintainer, all you have to do is visit [the web portal](https://servicedesk.cncf.io/) to request support.
 
 All CNCF maintainers are listed [here](http://maintainers.cncf.io/).
 
@@ -391,7 +391,7 @@ Head to the [Service Desk](https://cncfservicedesk.atlassian.net/servicedesk/cus
 
 #### I am a Kubernetes SIG chair and I don't have a Service Desk account
 
-The CNCF Service Desk policy for the Kubernetes community is defined at [Kubernetes Steering repo](https://github.com/kubernetes/steering/blob/master/service-desk.md).
+The CNCF Service Desk policy for the Kubernetes community is defined at [Kubernetes Steering repo](https://github.com/kubernetes/steering/blob/main/operations/service-desk.md).
 
 ### I changed my email and lost my Service Desk access. What can I do to get it back?
 
@@ -399,4 +399,4 @@ Email <info@cncf.io> and one will be created for you.
 
 ### I am not happy with the level of service from CNCF staff, what can I do to escalate?
 
-If you aren't happy with the service provided by CNCF staff or with a resolution of an issue, you have a couple of options. If it's a technical matter, you can appeal to the Technical Oversight Committee <https://github.com/cncf/toc>. If it's a budget-related matter you can appeal to the CNCF [Developer Representatives](https://github.com/cncfdevreps/issues) on the Governing Board.
+If you aren't happy with the service provided by CNCF staff or with a resolution of an issue, you have a couple of options. If it's a technical matter, you can appeal to the [Technical Oversight Committee](https://github.com/cncf/toc). If it's a budget-related matter you can appeal to the CNCF [Developer Representatives](https://github.com/cncfdevreps/issues) on the Governing Board.
