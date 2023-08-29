@@ -184,7 +184,7 @@ Events are central to CNCF's strategic approach, fostering community growth thro
 | **Stand-Alone Events**  | - | :white_check_mark: | - | - | - |
 | **Virtual Only Events**  | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 
-Learn more about eligibility and the parameters for [CNCF-Hosted Events here](https://docs.google.com/presentation/d/1S3tjdLdF-BxfbZnPck3W099dqMyyhWlCmv1vAQ-E2Go/edit).
+Learn more about eligibility and the parameters for [CNCF-Hosted Events here](https://events.linuxfoundation.org/wp-content/uploads/2023/08/8.29.23_CNCF-Project_Co-located-Event-Guidelines_2024.pdf).
 
 #### KubeCon + CloudNativeCon Project Opportunities
 
