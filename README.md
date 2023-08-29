@@ -54,6 +54,12 @@ We offer CNCF projects and maintainers help in these areas:
 - [I changed my email and lost my Service Desk access, what can I do to get it back?](#i-changed-my-email-and-lost-my-service-desk-access-what-can-i-do-to-get-it-back)
 - [I am not happy with the level of service from CNCF staff, what can I do to escalate?](#i-am-not-happy-with-the-level-of-service-from-cncf-staff-what-can-i-do-to-escalate)
 
+<style>
+    table {
+        width: 100%;
+    }
+</style>
+
 ## Foundation
 
 A neutral home for an open source project increases the willingness of developers from enterprise software companies, start-ups, and independent developers to collaborate, contribute, and become committers. The CNCF's [Technical Oversight Committee (TOC)](https://www.cncf.io/people/technical-oversight-committee/) is the [technical governing body](https://github.com/cncf/toc#cncf-technical-oversight-committee-toc), guided by [documented principles](https://github.com/cncf/toc/blob/master/PRINCIPLES.md), and admits and oversees all projects. Being accepted into the CNCF by the TOC is an independent signal of the quality of your project.
