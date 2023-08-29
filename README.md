@@ -178,56 +178,31 @@ Marketing services for projects are designed to assist with the awareness of the
 
 Events are central to CNCF's strategic approach, fostering community growth through direct interactions and knowledge exchange. CNCF offers various participation avenues for projects:
 
-<style>
-    .event table {
-        width: 100%;
-    }
-    .event table th:first-of-type {
-        width: 25%;
-    }
-    .event table th:nth-of-type(2) {
-        width: 15%;
-    }
-    .event table th:nth-of-type(3) {
-        width: 15%;
-    }
-    .event table th:nth-of-type(4) {
-        width: 15%;
-    }
-    .event table th:nth-of-type(5) {
-        width: 15%;
-    }
-    .event table th:nth-of-type(6) {
-        width: 15%;
-    }
+<style type="text/css">
 
-    .opportunity table {
-        width: 100%;
-    }
-    .opportunity table th:first-of-type {
-        width: 25%;
-    }
-    .opportunity table th:nth-of-type(2) {
-        width: 15%;
-    }
-    .opportunity table th:nth-of-type(3) {
-        width: 15%;
-    }
-    .opportunity table th:nth-of-type(4) {
-        width: 15%;
-    }
-    .opportunity table th:nth-of-type(5) {
-        width: 15%;
-    }
-    .opportunity table th:nth-of-type(5) {
-        width: 15%;
-    }
-    .opportunity table th:nth-of-type(6) {
-        width: 15%;
-    }
+.markdown-body table {
+    width: 100%;
+}
+.markdown-body table th:first-of-type, .markdown-body table td:first-of-type {
+    width: 25%;
+}
+.markdown-body table th:nth-of-type(2), .markdown-body table td:nth-of-type(2) {
+    width: 15%;
+}
+.markdown-body table th:nth-of-type(3), .markdown-body table td:nth-of-type(3) {
+    width: 15%;
+}
+.markdown-body table th:nth-of-type(4), .markdown-body table td:nth-of-type(4) {
+    width: 15%;
+}
+.markdown-body table th:nth-of-type(5), .markdown-body table td:nth-of-type(5) {
+    width: 15%;
+}
+.markdown-body table th:nth-of-type(6), .markdown-body table td:nth-of-type(6) {
+    width: 15%;
+}
+
 </style>
-
-<div class="event">
 
 |  Event Type | TAGs  | Graduated  | Incubating  | SIGs  | Sandbox |
 |---| :---: | :---: | :---: | :---: | :---: |
@@ -235,13 +210,9 @@ Events are central to CNCF's strategic approach, fostering community growth thro
 | **Stand-Alone Events**  | - | :white_check_mark: | - | - | - |
 | **Virtual Only Events**  | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 
-</div>
-
 Learn more about eligibility and the parameters for [CNCF-Hosted Events here](https://docs.google.com/presentation/d/1S3tjdLdF-BxfbZnPck3W099dqMyyhWlCmv1vAQ-E2Go/edit).
 
 #### KubeCon + CloudNativeCon Project Opportunities
-
-<div class="opportunity">
 
 |  Project Opportunity Type | TAGs  | Graduated  | Incubating  | SIGs  | Sandbox |
 |---| :---: | :---: | :---: | :---: | :---: |
@@ -250,8 +221,6 @@ Learn more about eligibility and the parameters for [CNCF-Hosted Events here](ht
 | **PR Support** | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | - |
 | **Maintainer session** | - | :white_check_mark: | :white_check_mark: | - | :white_check_mark: |
 | **Project Video Updates**<br />(Keynote Stage Highlight) | :white_check_mark: | :white_check_mark: | :white_check_mark: | - | - |
-
-</div>
 
 We provide:
 
