@@ -176,34 +176,40 @@ Marketing services for projects are designed to assist with the awareness of the
 
 ### Event Management
 
-Events are a part of CNCF's core strategy and they help our project's build a community with face-to-face interaction and knowledge sharing. KubeCon + CloudNativeCon, our flagship event, brings over 20,000 people together through our three regional events; North America, Europe, and China.
+Events are central to CNCF's strategic approach, fostering community growth through direct interactions and knowledge exchange. CNCF offers various participation avenues for projects:
 
-CNCF also runs and supports events targeted specifically for your project, we provide:
+|  Event type | TAGs  | Graduated  | Incubating  | SIGs  | Sandbox |
+|---|---|---|---|---|---|
+| **CNCF-hosted Co-located Events<br />KubeCon + CloudNativeCon &<br />Open Source Summit Events**  | :white_check_mark:  | :white_check_mark: |  :white_check_mark: |   |   |
+| **Stand-Alone Events**  |   | :white_check_mark:  |   |   |   |
+| **Virtual Only Events**  | :white_check_mark:  | :white_check_mark:  |  :white_check_mark: |  :white_check_mark: | :white_check_mark:  |
 
-- Full event planning and logistical support
-- Integrated marketing and communication plan including an event website, communications, and marketing of the event
-- Obtaining sponsors for the event
-- Media introductions
-- Co-location opportunities with other LF events such as Open Source Summit
+Learn more about eligibility and the parameters for [CNCF-Hosted Events here](https://docs.google.com/presentation/d/1S3tjdLdF-BxfbZnPck3W099dqMyyhWlCmv1vAQ-E2Go/edit).
 
-Some of the CNCF projects that have held their project-specific events:
+#### KubeCon + CloudNativeCon Project Opportunities
 
-- [PromCon](https://promcon.io/)
-- [EnvoyCon](https://events19.linuxfoundation.org/events/envoycon-2019/)
-- [gRPC Conf](https://events.linuxfoundation.org/grpc-conf/)
-- [Helm Summit](https://events19.linuxfoundation.org/events/helm-summit-2019/)
+|  KubeCon + CloudNativeCon<br />Project Opportunity type | TAGs  | Graduated  | Incubating  | SIGs  | Sandbox |
+|---|---|---|---|---|---|
+| **In-Person Kiosk**<br />(Project Pavilion) | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
+| **In-Person Project Meeting** | :white_check_mark: | :white_check_mark: | :white_check_mark: |  |  |
+| **PR Support** | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |  |
+| **Maintainer session** |  | :white_check_mark: | :white_check_mark: |  | :white_check_mark: |
+| **Project Video Updates**<br />(Keynote Stage Highlight) | :white_check_mark: | :white_check_mark: | :white_check_mark: |  |  |
 
-Projects and project maintainers can participate in CNCF events by:
+We provide:
 
-- Creating a track for your project at KubeCon + CloudNativeCon events.
-- At KubeCon + CloudNativeCon, host 2 maintainer sessions (an intro and deep dive) for your project.
-- Participate in the Meet the Maintainer booths at KubeCon + CloudNativeCon events
+- Full event planning and logistical support.
+- Integrated marketing and communication plan, including an event website, communications, and marketing of the event.
+- Obtaining sponsors for the event.
+- Media introductions.
+
+Additional ways projects and project maintainers can participate in events:
+
 - Submissions for call-for-proposals at KubeCon + CloudNativeCon are encouraged to discuss their use of CNCF projects.
-- CNCF sponsors many [third-party events](https://www.cncf.io/events-well-be-at/) each year, both in-person and virtual. Often with a booth, we encourage project maintainers to join CNCF in our participation to meet the event attendees and talk about your project. For virtual events, we advocate for presentations by project maintainers.
-- CNCF supports numerous [Linux Foundation events](https://events.linuxfoundation.org/) such as Open Source Summit and Open Networking Summit. We love to have project maintainers join CNCF at these events to educate the broader ecosystem on open source cloud native projects.
-- For in-person events, project contributors are welcome to use our booth as a “home base” for meeting colleagues.
-- Connect to our worldwide network of [CNCF meetup groups](https://www.meetup.com/topics/cncf/) and [ambassadors](https://www.cncf.io/people/ambassadors/) to raise awareness of your project.
-- Travel funding is available for your non-corporate-backed developers and to increase the attendance of women and other underrepresented minorities.
+- CNCF sponsors industry and [Linux Foundation events](https://events.linuxfoundation.org/) each year, often with a booth. We encourage project maintainers to join CNCF in our participation to meet with the event attendees and talk about your project.
+  - Project contributors are welcome to use our booth as a "home base" for meeting colleagues.
+- Connect to our worldwide network of [Cloud Native Community Groups](https://community.cncf.io/) and [Ambassadors](https://www.cncf.io/people/ambassadors/) to raise awareness of your project.
+- Travel funding is available for your non-corporate-backed developers. Please visit our most recent events' need-based scholarship page to learn about eligibility.
 - At events, we promote all CNCF projects and help connect users and developers to our projects.
 
 ### Marketing Services and Programs
@@ -265,7 +271,7 @@ Projects coming in as Sandbox
 
 - An announcement to the TOC mailing list on the day they are included in the Sandbox.
 - If the media contacts CNCF regarding the news, CNCF will make an introduction directly to the project.
-- Correct terminology: “Cloud Native Sandbox” or “CNCF Sandbox projects”
+- Correct terminology: "Cloud Native Sandbox" or "CNCF Sandbox projects"
 - CNCF does not provide press outreach, a CNCF or TOC briefing, a blog, or a social card
 - Exception: A member may share a blog about any open source project, including a Sandbox project. See the [CNCF blog guidelines](https://github.com/cncf/foundation/blob/master/blog-guidelines.md)
 
