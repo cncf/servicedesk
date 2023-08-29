@@ -54,12 +54,6 @@ We offer CNCF projects and maintainers help in these areas:
 - [I changed my email and lost my Service Desk access, what can I do to get it back?](#i-changed-my-email-and-lost-my-service-desk-access-what-can-i-do-to-get-it-back)
 - [I am not happy with the level of service from CNCF staff, what can I do to escalate?](#i-am-not-happy-with-the-level-of-service-from-cncf-staff-what-can-i-do-to-escalate)
 
-<style>
-    table {
-        width: 100%;
-    }
-</style>
-
 ## Foundation
 
 A neutral home for an open source project increases the willingness of developers from enterprise software companies, start-ups, and independent developers to collaborate, contribute, and become committers. The CNCF's [Technical Oversight Committee (TOC)](https://www.cncf.io/people/technical-oversight-committee/) is the [technical governing body](https://github.com/cncf/toc#cncf-technical-oversight-committee-toc), guided by [documented principles](https://github.com/cncf/toc/blob/master/PRINCIPLES.md), and admits and oversees all projects. Being accepted into the CNCF by the TOC is an independent signal of the quality of your project.
@@ -184,23 +178,80 @@ Marketing services for projects are designed to assist with the awareness of the
 
 Events are central to CNCF's strategic approach, fostering community growth through direct interactions and knowledge exchange. CNCF offers various participation avenues for projects:
 
+<style>
+    .event table {
+        width: 100%;
+    }
+    .event table th:first-of-type {
+        width: 25%;
+    }
+    .event table th:nth-of-type(2) {
+        width: 15%;
+    }
+    .event table th:nth-of-type(3) {
+        width: 15%;
+    }
+    .event table th:nth-of-type(4) {
+        width: 15%;
+    }
+    .event table th:nth-of-type(5) {
+        width: 15%;
+    }
+    .event table th:nth-of-type(6) {
+        width: 15%;
+    }
+
+    .opportunity table {
+        width: 100%;
+    }
+    .opportunity table th:first-of-type {
+        width: 25%;
+    }
+    .opportunity table th:nth-of-type(2) {
+        width: 15%;
+    }
+    .opportunity table th:nth-of-type(3) {
+        width: 15%;
+    }
+    .opportunity table th:nth-of-type(4) {
+        width: 15%;
+    }
+    .opportunity table th:nth-of-type(5) {
+        width: 15%;
+    }
+    .opportunity table th:nth-of-type(5) {
+        width: 15%;
+    }
+    .opportunity table th:nth-of-type(6) {
+        width: 15%;
+    }
+</style>
+
+<div class="event">
+
 |  Event Type | TAGs  | Graduated  | Incubating  | SIGs  | Sandbox |
 |---| :---: | :---: | :---: | :---: | :---: |
-| **CNCF-hosted Co-located Events<br />KubeCon + CloudNativeCon &<br />Open Source Summit Events**  | :white_check_mark:  | :white_check_mark: |  :white_check_mark: |   |   |
-| **Stand-Alone Events**  |   | :white_check_mark:  |   |   |   |
-| **Virtual Only Events**  | :white_check_mark:  | :white_check_mark:  |  :white_check_mark: |  :white_check_mark: | :white_check_mark:  |
+| **CNCF-hosted Co-located Events<br />KubeCon + CloudNativeCon &<br />Open Source Summit Events**  | :white_check_mark:  | :white_check_mark: |  :white_check_mark: | - | - |
+| **Stand-Alone Events**  | - | :white_check_mark: | - | - | - |
+| **Virtual Only Events**  | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
+
+</div>
 
 Learn more about eligibility and the parameters for [CNCF-Hosted Events here](https://docs.google.com/presentation/d/1S3tjdLdF-BxfbZnPck3W099dqMyyhWlCmv1vAQ-E2Go/edit).
 
 #### KubeCon + CloudNativeCon Project Opportunities
 
+<div class="opportunity">
+
 |  Project Opportunity Type | TAGs  | Graduated  | Incubating  | SIGs  | Sandbox |
 |---| :---: | :---: | :---: | :---: | :---: |
 | **In-Person Kiosk**<br />(Project Pavilion) | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
-| **In-Person Project Meeting** | :white_check_mark: | :white_check_mark: | :white_check_mark: |  |  |
-| **PR Support** | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |  |
-| **Maintainer session** |  | :white_check_mark: | :white_check_mark: |  | :white_check_mark: |
-| **Project Video Updates**<br />(Keynote Stage Highlight) | :white_check_mark: | :white_check_mark: | :white_check_mark: |  |  |
+| **In-Person Project Meeting** | :white_check_mark: | :white_check_mark: | :white_check_mark: | - | - |
+| **PR Support** | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | - |
+| **Maintainer session** | - | :white_check_mark: | :white_check_mark: | - | :white_check_mark: |
+| **Project Video Updates**<br />(Keynote Stage Highlight) | :white_check_mark: | :white_check_mark: | :white_check_mark: | - | - |
+
+</div>
 
 We provide:
 
