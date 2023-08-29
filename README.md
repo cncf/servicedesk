@@ -178,32 +178,6 @@ Marketing services for projects are designed to assist with the awareness of the
 
 Events are central to CNCF's strategic approach, fostering community growth through direct interactions and knowledge exchange. CNCF offers various participation avenues for projects:
 
-<style type="text/css">
-
-.markdown-body table {
-    width: 100%;
-}
-.markdown-body table th:first-of-type, .markdown-body table td:first-of-type {
-    width: 25%;
-}
-.markdown-body table th:nth-of-type(2), .markdown-body table td:nth-of-type(2) {
-    width: 15%;
-}
-.markdown-body table th:nth-of-type(3), .markdown-body table td:nth-of-type(3) {
-    width: 15%;
-}
-.markdown-body table th:nth-of-type(4), .markdown-body table td:nth-of-type(4) {
-    width: 15%;
-}
-.markdown-body table th:nth-of-type(5), .markdown-body table td:nth-of-type(5) {
-    width: 15%;
-}
-.markdown-body table th:nth-of-type(6), .markdown-body table td:nth-of-type(6) {
-    width: 15%;
-}
-
-</style>
-
 |  Event Type | TAGs  | Graduated  | Incubating  | SIGs  | Sandbox |
 |---| :---: | :---: | :---: | :---: | :---: |
 | **CNCF-hosted Co-located Events<br />KubeCon + CloudNativeCon &<br />Open Source Summit Events**  | :white_check_mark:  | :white_check_mark: |  :white_check_mark: | - | - |
