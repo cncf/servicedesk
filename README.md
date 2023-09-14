@@ -115,6 +115,10 @@ CNCF Projects may freely select their own tools, produce their own documentation
 - [Scarf](https://scarf.sh) for advanced analytics for container & artifact distribution, package installation, and web traffic to source documentation
 - [Peritus.ai](https://peritus.ai/) for Machine Learning analytics and self-service for developer communities
 - [Curiefense](https://curiefense.io) for application layer protection (web/API) - WAF, DDoS, Rate limiting, and more
+- [CLOMonitor](https://clomonitor.io) scans repositories daily, checking for adherence to a range of best practises providing a way for end users to assess the health of open source projects from multiple points of view
+- [CLOWarden](https://clowarden.io) an extensible, Git Ops-based access control service that controls and audits access to GitHub repositories for individuals and teams
+- [CLOTributor](https://clotributor.dev/) search engine for people looking for opportunites to become Cloud Native contributors
+- [GitVote](https://github.com/cncf/gitvote) a GitHub application that allows voting in issues and pull requests
 
 CNCF staff is familiar with and can help projects with, hosting on AWS, GCP, and Azure clouds. In some cases, we have [credits available](https://www.cncf.io/google-cloud-recommits-3m-to-kubernetes/) for free hosting. We also have our own [Community Infrastructure Lab](https://www.cncf.io/community/infrastructure-lab/).
 
