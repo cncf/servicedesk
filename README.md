@@ -207,6 +207,10 @@ We provide:
 - Obtaining sponsors for the event.
 - Media introductions.
 
+[Learn more about the guidelines here](https://events.linuxfoundation.org/wp-content/uploads/2023/08/8.29.23_CNCF-Project_Co-located-Event-Guidelines_2024.pdf).
+
+[Submit an Event Request: 2024 CNCF Project + Co-located Event Proposal Form](https://docs.google.com/forms/d/e/1FAIpQLSfbn0xSSsN4JBRrX80rqnfnAOigmX6yuRyPtLfzfGnLB4z7-g/viewform).
+
 Additional ways projects and project maintainers can participate in events:
 
 - Submissions for call-for-proposals at KubeCon + CloudNativeCon are encouraged to discuss their use of CNCF projects.
