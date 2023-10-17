@@ -119,6 +119,7 @@ CNCF Projects may freely select their own tools, produce their own documentation
 - [CLOWarden](https://clowarden.io) an extensible, Git Ops-based access control service that controls and audits access to GitHub repositories for individuals and teams
 - [CLOTributor](https://clotributor.dev/) search engine for people looking for opportunites to become Cloud Native contributors
 - [GitVote](https://github.com/cncf/gitvote) a GitHub application that allows voting in issues and pull requests
+- [Gitpod](https://www.gitpod.io/) cloud development environments are on-demand and pre-configured with all tools, libraries and dependencies required to be ready-to-code.
 
 CNCF staff is familiar with and can help projects with, hosting on AWS, GCP, and Azure clouds. In some cases, we have [credits available](https://www.cncf.io/google-cloud-recommits-3m-to-kubernetes/) for free hosting. We also have our own [Community Infrastructure Lab](https://www.cncf.io/community/infrastructure-lab/).
 
