@@ -198,7 +198,7 @@ Learn more about eligibility and the parameters for [CNCF-Hosted Events here](ht
 | **In-Person Kiosk**<br />(Project Pavilion) | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | **In-Person Project Meeting** | :white_check_mark: | :white_check_mark: | :white_check_mark: | - | - |
 | **PR Support** | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | - |
-| **Maintainer session** | - | :white_check_mark: | :white_check_mark: | - | :white_check_mark: |
+| **Maintainer session** | - | :white_check_mark: | :white_check_mark: | - | - |
 | **Project Video Updates**<br />(Keynote Stage Highlight) | :white_check_mark: | :white_check_mark: | :white_check_mark: | - | - |
 
 We provide:
