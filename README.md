@@ -112,7 +112,8 @@ CNCF Projects may freely select their own tools, produce their own documentation
 - [Docker Hub](https://hub.docker.com/) for storing and managing container images
 - [LFX Security](https://lfx.linuxfoundation.org/tools/security/) for source code security scanning and license compliance (white-labeled Snyk)
 - [Credly](https://info.credly.com) Custom badges powered by Credly (for example [Linkerd Hero](https://www.youracclaim.com/badges/538d249f-ec6d-4c5c-93f4-44d7c5596b36/twitter) program)
-- [Scarf](https://scarf.sh) for advanced analytics for container & artifact distribution, package installation, and web traffic to source documentation
+- [Scarf](https://scarf.sh) for advanced analytics for container & artifact distribution, package installation, and web traffic to source documentation. [Get started](https://docs.scarf.sh/quick-start/).
+- [Dosu](https://dosu.dev/) is new AI teammate that lives in your GitHub repo, helping you respond to issues, triage bugs, and build better documentation (early access for CNCF projects).
 - [Peritus.ai](https://peritus.ai/) for Machine Learning analytics and self-service for developer communities
 - [Curiefense](https://curiefense.io) for application layer protection (web/API) - WAF, DDoS, Rate limiting, and more
 - [CLOMonitor](https://clomonitor.io) scans repositories daily, checking for adherence to a wide range of actions that are taken to ensure best practise providing a way for end users to assess the health of open source projects from multiple points of view
