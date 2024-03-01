@@ -122,7 +122,7 @@ CNCF Projects may freely select their own tools, produce their own documentation
 - [GitVote](https://github.com/cncf/gitvote) a GitHub application that allows voting in issues and pull requests
 - [Gitpod](https://www.gitpod.io/) cloud development environments are on-demand and pre-configured with all tools, libraries and dependencies required to be ready-to-code.
 
-CNCF staff is familiar with and can help projects with, hosting on AWS, GCP, and Azure clouds. In some cases, we have [credits available](https://www.cncf.io/google-cloud-recommits-3m-to-kubernetes/) for free hosting. We also have our own [Community Infrastructure Lab](https://www.cncf.io/community/infrastructure-lab/).
+CNCF staff is familiar with and can help projects with, hosting on AWS, GCP, Oracle, and Azure clouds. In some cases, we have free credits ([AWS](https://www.cncf.io/announcement/2019/11/19/cloud-native-computing-foundation-receives-200000-in-credits-from-amazon-web-services-aws/), [GCP](https://www.cncf.io/google-cloud-recommits-3m-to-kubernetes/), [Oracle](https://www.cncf.io/blog/2024/02/02/oracle-oci-credits-are-now-available-to-cncf-projects-here-is-what-you-need-to-know/)) for free hosting. We also have our own [Community Infrastructure Lab](https://www.cncf.io/community/infrastructure-lab/).
 
 ## Technical Documentation
 
@@ -370,13 +370,13 @@ The CNCF doesn't enforce the projects to use any specific tool for sharing crede
 
 ### How can I use the computing infrastructure provided by the CNCF?
 
-The CNCF prefers projects evaluate using our [Community Cluster](https://github.com/cncf/cluster) first. We have partnered with various providers that offer discounted or free services for CNCF projects. For example, CNCF projects may use the credits [offered by Amazon Web Services for CNCF](https://www.cncf.io/announcement/2019/11/19/cloud-native-computing-foundation-receives-200000-in-credits-from-amazon-web-services-aws/) for their upstream testing, CI/CD, and other purposes. See the [Tools](#tools) sections on this page for more details.
+The CNCF prefers projects evaluate using our [Community Cluster](https://github.com/cncf/cluster) first. We have partnered with various providers that offer discounted or free services for CNCF projects. For example, CNCF projects may use the credits offered by [Amazon Web Services](https://www.cncf.io/announcement/2019/11/19/cloud-native-computing-foundation-receives-200000-in-credits-from-amazon-web-services-aws/) or [Oracle](https://www.cncf.io/blog/2024/02/02/oracle-oci-credits-are-now-available-to-cncf-projects-here-is-what-you-need-to-know/) for their upstream testing, CI/CD, and other purposes. See the [Tools](#tools) sections on this page for more details.
 
 To benefit from one of these offers, please submit the Service Desk ticket with a detailed description of the request, including the purpose, a list of the desired services, and a rough cost.
 
 Code being run must be 100 percent open source and must not include any sensitive data.
 
-Please note that available computing resources are limited so we may ask you to reduce your usage when there is high demand for the available credits. Specifically, please consider shutting down the unused computing resources, use automation to terminate the bare metal/virtual machines if they are not intended to be used 24/7, use spot instances if applicable etc. Please estimate your budget to use no more than $3000/month USD in AWS credits. If you expect higher resource usage on a regular basis, please consider using the [CNCF Cluster](https://github.com/CNCF/cluster) instead.
+Please note that available computing resources are limited so we may ask you to reduce your usage when there is high demand for the available credits. Specifically, please consider shutting down the unused computing resources, use automation to terminate the bare metal/virtual machines if they are not intended to be used 24/7, use spot instances if applicable etc. Please estimate your budget to use no more than $3000/month USD in AWS or Oracle credits. If you expect higher resource usage on a regular basis, please consider using the [CNCF Cluster](https://github.com/CNCF/cluster) instead.
 
 The CNCF expects fair usage of the allocated resources and credits, and reserves the right to terminate any allocated infrastructure resources and revoke the access to them in the case of violation of these rules.
 
