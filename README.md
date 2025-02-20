@@ -6,6 +6,6 @@ We offer additional services via professional staff that cultivates the maturity
 
 ## How to request access
 
-The [CNCF Service Desk](http://servicedesk.cncf.io/) provides a way for maintainers to request these services. If you are a project maintainer, head to the [Service Desk](https://cncfservicedesk.atlassian.net/servicedesk/customer/portal/1/user/login) and try to log in, if you can't find an account, email <info@cncf.io> and one will be created for you.
+The [CNCF Service Desk](http://servicedesk.cncf.io/) provides a way for maintainers to request these services. If you are a project maintainer, head to the [Service Desk](https://cncfservicedesk.atlassian.net/servicedesk/customer/portal/1/user/login) and try to log in, if you can't find an account, email <projects@cncf.io> and one will be created for you.
 
 The list of the active CNCF maintainers can be found at the [CNCF Maintainers page](http://maintainers.cncf.io/).
